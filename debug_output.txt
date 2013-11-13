@@ -1,0 +1,6018 @@
+==== Iterating ====
+
+Activated:
+Requirements:
+  rails_12factor (= 0.0.2) ruby
+  pg (= 0.15.1) ruby
+  rspec-rails (= 2.13.1) ruby
+  selenium-webdriver (= 2.35.1) ruby
+  coffee-rails (= 4.0.1) ruby
+  sass-rails (= 4.0.1) ruby
+  uglifier (= 2.1.1) ruby
+  capybara (= 2.1.0) ruby
+  jquery-rails (= 3.0.4) ruby
+  turbolinks (= 1.1.1) ruby
+  jbuilder (= 1.0.2) ruby
+  sdoc (= 0.3.20) ruby
+  sqlite3 (= 1.3.8) ruby
+  rails (= 4.0.1) ruby
+Attempting:
+  rails_12factor (= 0.0.2) ruby
+==== Iterating ====
+
+Activated:
+Requirements:
+  rails (= 4.0.1) ruby
+  sqlite3 (= 1.3.8) ruby
+  rspec-rails (= 2.13.1) ruby
+  selenium-webdriver (= 2.35.1) ruby
+  capybara (= 2.1.0) ruby
+  sass-rails (= 4.0.1) ruby
+  uglifier (= 2.1.1) ruby
+  coffee-rails (= 4.0.1) ruby
+  jquery-rails (= 3.0.4) ruby
+  turbolinks (= 1.1.1) ruby
+  jbuilder (= 1.0.2) ruby
+  sdoc (= 0.3.20) ruby
+  pg (= 0.15.1) ruby
+  rails_12factor (= 0.0.2) ruby
+Attempting:
+  rails (= 4.0.1) ruby
+  Activating: rails (4.0.1)
+    * rails (= 4.0.1)
+    Dependencies
+    * actionmailer (= 4.0.1)
+    * actionpack (= 4.0.1)
+    * activerecord (= 4.0.1)
+    * activesupport (= 4.0.1)
+    * bundler (< 2.0, >= 1.3.0)
+    * railties (= 4.0.1)
+    * sprockets-rails (~> 2.0.0)
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+Requirements:
+  sqlite3 (= 1.3.8) ruby
+  rspec-rails (= 2.13.1) ruby
+  selenium-webdriver (= 2.35.1) ruby
+  capybara (= 2.1.0) ruby
+  sass-rails (= 4.0.1) ruby
+  uglifier (= 2.1.1) ruby
+  coffee-rails (= 4.0.1) ruby
+  jquery-rails (= 3.0.4) ruby
+  turbolinks (= 1.1.1) ruby
+  jbuilder (= 1.0.2) ruby
+  sdoc (= 0.3.20) ruby
+  pg (= 0.15.1) ruby
+  rails_12factor (= 0.0.2) ruby
+  actionmailer (= 4.0.1) ruby
+  actionpack (= 4.0.1) ruby
+  activerecord (= 4.0.1) ruby
+  activesupport (= 4.0.1) ruby
+  bundler (< 2.0, >= 1.3.0) ruby
+  railties (= 4.0.1) ruby
+  sprockets-rails (~> 2.0.0) ruby
+Attempting:
+  sqlite3 (= 1.3.8) ruby
+  Activating: sqlite3 (1.3.8)
+    * sqlite3 (= 1.3.8)
+    Dependencies
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+Requirements:
+  rspec-rails (= 2.13.1) ruby
+  selenium-webdriver (= 2.35.1) ruby
+  capybara (= 2.1.0) ruby
+  sass-rails (= 4.0.1) ruby
+  uglifier (= 2.1.1) ruby
+  coffee-rails (= 4.0.1) ruby
+  jquery-rails (= 3.0.4) ruby
+  turbolinks (= 1.1.1) ruby
+  jbuilder (= 1.0.2) ruby
+  sdoc (= 0.3.20) ruby
+  pg (= 0.15.1) ruby
+  rails_12factor (= 0.0.2) ruby
+  actionmailer (= 4.0.1) ruby
+  actionpack (= 4.0.1) ruby
+  activerecord (= 4.0.1) ruby
+  activesupport (= 4.0.1) ruby
+  bundler (< 2.0, >= 1.3.0) ruby
+  railties (= 4.0.1) ruby
+  sprockets-rails (~> 2.0.0) ruby
+Attempting:
+  rspec-rails (= 2.13.1) ruby
+  Activating: rspec-rails (2.13.1)
+    * rspec-rails (= 2.13.1)
+    Dependencies
+    * activesupport (>= 3.0)
+    * actionpack (>= 3.0)
+    * railties (>= 3.0)
+    * rspec-core (~> 2.13.0)
+    * rspec-expectations (~> 2.13.0)
+    * rspec-mocks (~> 2.13.0)
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+Requirements:
+  selenium-webdriver (= 2.35.1) ruby
+  capybara (= 2.1.0) ruby
+  sass-rails (= 4.0.1) ruby
+  uglifier (= 2.1.1) ruby
+  coffee-rails (= 4.0.1) ruby
+  jquery-rails (= 3.0.4) ruby
+  turbolinks (= 1.1.1) ruby
+  jbuilder (= 1.0.2) ruby
+  sdoc (= 0.3.20) ruby
+  pg (= 0.15.1) ruby
+  rails_12factor (= 0.0.2) ruby
+  actionmailer (= 4.0.1) ruby
+  rspec-expectations (~> 2.13.0) ruby
+  activerecord (= 4.0.1) ruby
+  activesupport (= 4.0.1) ruby
+  bundler (< 2.0, >= 1.3.0) ruby
+  railties (= 4.0.1) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  activesupport (>= 3.0) ruby
+  actionpack (>= 3.0) ruby
+  railties (>= 3.0) ruby
+  actionpack (= 4.0.1) ruby
+  rspec-core (~> 2.13.0) ruby
+  rspec-mocks (~> 2.13.0) ruby
+Attempting:
+  selenium-webdriver (= 2.35.1) ruby
+  Activating: selenium-webdriver (2.35.1)
+    * selenium-webdriver (= 2.35.1)
+    Dependencies
+    * multi_json (~> 1.0)
+    * rubyzip (< 1.0.0)
+    * childprocess (>= 0.2.5)
+    * websocket (~> 1.0.4)
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+Requirements:
+  capybara (= 2.1.0) ruby
+  sass-rails (= 4.0.1) ruby
+  uglifier (= 2.1.1) ruby
+  coffee-rails (= 4.0.1) ruby
+  jquery-rails (= 3.0.4) ruby
+  turbolinks (= 1.1.1) ruby
+  jbuilder (= 1.0.2) ruby
+  sdoc (= 0.3.20) ruby
+  pg (= 0.15.1) ruby
+  rails_12factor (= 0.0.2) ruby
+  actionmailer (= 4.0.1) ruby
+  rspec-expectations (~> 2.13.0) ruby
+  activerecord (= 4.0.1) ruby
+  multi_json (~> 1.0) ruby
+  bundler (< 2.0, >= 1.3.0) ruby
+  railties (= 4.0.1) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  activesupport (>= 3.0) ruby
+  actionpack (>= 3.0) ruby
+  railties (>= 3.0) ruby
+  actionpack (= 4.0.1) ruby
+  activesupport (= 4.0.1) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  websocket (~> 1.0.4) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+Attempting:
+  capybara (= 2.1.0) ruby
+  Activating: capybara (2.1.0)
+    * capybara (= 2.1.0)
+    Dependencies
+    * nokogiri (>= 1.3.3)
+    * mime-types (>= 1.16)
+    * rack (>= 1.0.0)
+    * rack-test (>= 0.5.4)
+    * xpath (~> 2.0)
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+Requirements:
+  sass-rails (= 4.0.1) ruby
+  uglifier (= 2.1.1) ruby
+  coffee-rails (= 4.0.1) ruby
+  jquery-rails (= 3.0.4) ruby
+  turbolinks (= 1.1.1) ruby
+  jbuilder (= 1.0.2) ruby
+  sdoc (= 0.3.20) ruby
+  pg (= 0.15.1) ruby
+  rails_12factor (= 0.0.2) ruby
+  actionmailer (= 4.0.1) ruby
+  rspec-expectations (~> 2.13.0) ruby
+  activerecord (= 4.0.1) ruby
+  multi_json (~> 1.0) ruby
+  bundler (< 2.0, >= 1.3.0) ruby
+  railties (= 4.0.1) ruby
+  mime-types (>= 1.16) ruby
+  activesupport (>= 3.0) ruby
+  actionpack (>= 3.0) ruby
+  railties (>= 3.0) ruby
+  actionpack (= 4.0.1) ruby
+  activesupport (= 4.0.1) ruby
+  xpath (~> 2.0) ruby
+  rack-test (>= 0.5.4) ruby
+  rack (>= 1.0.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  websocket (~> 1.0.4) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+Attempting:
+  sass-rails (= 4.0.1) ruby
+  Activating: sass-rails (4.0.1)
+    * sass-rails (= 4.0.1)
+    Dependencies
+    * railties (< 5.0, >= 4.0.0)
+    * sass (>= 3.1.10)
+    * sprockets-rails (~> 2.0.0)
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+Requirements:
+  uglifier (= 2.1.1) ruby
+  coffee-rails (= 4.0.1) ruby
+  jquery-rails (= 3.0.4) ruby
+  turbolinks (= 1.1.1) ruby
+  jbuilder (= 1.0.2) ruby
+  sdoc (= 0.3.20) ruby
+  pg (= 0.15.1) ruby
+  rails_12factor (= 0.0.2) ruby
+  actionmailer (= 4.0.1) ruby
+  rspec-expectations (~> 2.13.0) ruby
+  activerecord (= 4.0.1) ruby
+  multi_json (~> 1.0) ruby
+  bundler (< 2.0, >= 1.3.0) ruby
+  railties (= 4.0.1) ruby
+  mime-types (>= 1.16) ruby
+  activesupport (>= 3.0) ruby
+  railties (< 5.0, >= 4.0.0) ruby
+  railties (>= 3.0) ruby
+  actionpack (= 4.0.1) ruby
+  activesupport (= 4.0.1) ruby
+  xpath (~> 2.0) ruby
+  rack-test (>= 0.5.4) ruby
+  rack (>= 1.0.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  sass (>= 3.1.10) ruby
+  actionpack (>= 3.0) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  websocket (~> 1.0.4) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+Attempting:
+  uglifier (= 2.1.1) ruby
+  Activating: uglifier (2.1.1)
+    * uglifier (= 2.1.1)
+    Dependencies
+    * execjs (>= 0.3.0)
+    * multi_json (>= 1.0.2, ~> 1.0)
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+Requirements:
+  coffee-rails (= 4.0.1) ruby
+  jquery-rails (= 3.0.4) ruby
+  turbolinks (= 1.1.1) ruby
+  jbuilder (= 1.0.2) ruby
+  sdoc (= 0.3.20) ruby
+  pg (= 0.15.1) ruby
+  rails_12factor (= 0.0.2) ruby
+  actionmailer (= 4.0.1) ruby
+  rspec-expectations (~> 2.13.0) ruby
+  activerecord (= 4.0.1) ruby
+  multi_json (~> 1.0) ruby
+  bundler (< 2.0, >= 1.3.0) ruby
+  railties (= 4.0.1) ruby
+  mime-types (>= 1.16) ruby
+  activesupport (>= 3.0) ruby
+  railties (< 5.0, >= 4.0.0) ruby
+  railties (>= 3.0) ruby
+  execjs (>= 0.3.0) ruby
+  activesupport (= 4.0.1) ruby
+  xpath (~> 2.0) ruby
+  rack-test (>= 0.5.4) ruby
+  rack (>= 1.0.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  sass (>= 3.1.10) ruby
+  actionpack (>= 3.0) ruby
+  multi_json (>= 1.0.2, ~> 1.0) ruby
+  actionpack (= 4.0.1) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  websocket (~> 1.0.4) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+Attempting:
+  coffee-rails (= 4.0.1) ruby
+  Activating: coffee-rails (4.0.1)
+    * coffee-rails (= 4.0.1)
+    Dependencies
+    * coffee-script (>= 2.2.0)
+    * railties (< 5.0, >= 4.0.0)
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+Requirements:
+  jquery-rails (= 3.0.4) ruby
+  turbolinks (= 1.1.1) ruby
+  jbuilder (= 1.0.2) ruby
+  sdoc (= 0.3.20) ruby
+  pg (= 0.15.1) ruby
+  rails_12factor (= 0.0.2) ruby
+  actionmailer (= 4.0.1) ruby
+  rspec-expectations (~> 2.13.0) ruby
+  activerecord (= 4.0.1) ruby
+  multi_json (~> 1.0) ruby
+  bundler (< 2.0, >= 1.3.0) ruby
+  railties (= 4.0.1) ruby
+  mime-types (>= 1.16) ruby
+  activesupport (>= 3.0) ruby
+  railties (< 5.0, >= 4.0.0) ruby
+  railties (>= 3.0) ruby
+  execjs (>= 0.3.0) ruby
+  coffee-script (>= 2.2.0) ruby
+  xpath (~> 2.0) ruby
+  rack-test (>= 0.5.4) ruby
+  rack (>= 1.0.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  sass (>= 3.1.10) ruby
+  actionpack (>= 3.0) ruby
+  multi_json (>= 1.0.2, ~> 1.0) ruby
+  actionpack (= 4.0.1) ruby
+  railties (< 5.0, >= 4.0.0) ruby
+  activesupport (= 4.0.1) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  websocket (~> 1.0.4) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+Attempting:
+  jquery-rails (= 3.0.4) ruby
+  Activating: jquery-rails (3.0.4)
+    * jquery-rails (= 3.0.4)
+    Dependencies
+    * railties (< 5.0, >= 3.0)
+    * thor (< 2.0, >= 0.14)
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+Requirements:
+  turbolinks (= 1.1.1) ruby
+  jbuilder (= 1.0.2) ruby
+  sdoc (= 0.3.20) ruby
+  pg (= 0.15.1) ruby
+  rails_12factor (= 0.0.2) ruby
+  actionmailer (= 4.0.1) ruby
+  rspec-expectations (~> 2.13.0) ruby
+  activerecord (= 4.0.1) ruby
+  multi_json (~> 1.0) ruby
+  bundler (< 2.0, >= 1.3.0) ruby
+  railties (= 4.0.1) ruby
+  mime-types (>= 1.16) ruby
+  activesupport (>= 3.0) ruby
+  railties (< 5.0, >= 4.0.0) ruby
+  railties (>= 3.0) ruby
+  execjs (>= 0.3.0) ruby
+  coffee-script (>= 2.2.0) ruby
+  xpath (~> 2.0) ruby
+  railties (< 5.0, >= 3.0) ruby
+  rack (>= 1.0.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  sass (>= 3.1.10) ruby
+  actionpack (>= 3.0) ruby
+  multi_json (>= 1.0.2, ~> 1.0) ruby
+  actionpack (= 4.0.1) ruby
+  railties (< 5.0, >= 4.0.0) ruby
+  activesupport (= 4.0.1) ruby
+  thor (< 2.0, >= 0.14) ruby
+  rack-test (>= 0.5.4) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  websocket (~> 1.0.4) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+Attempting:
+  turbolinks (= 1.1.1) ruby
+  Activating: turbolinks (1.1.1)
+    * turbolinks (= 1.1.1)
+    Dependencies
+    * coffee-rails (>= 0)
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+Requirements:
+  coffee-rails (>= 0) ruby
+  rack (>= 1.0.0) ruby
+  pg (= 0.15.1) ruby
+  rails_12factor (= 0.0.2) ruby
+  actionmailer (= 4.0.1) ruby
+  rspec-expectations (~> 2.13.0) ruby
+  activerecord (= 4.0.1) ruby
+  multi_json (~> 1.0) ruby
+  bundler (< 2.0, >= 1.3.0) ruby
+  railties (= 4.0.1) ruby
+  mime-types (>= 1.16) ruby
+  activesupport (>= 3.0) ruby
+  railties (< 5.0, >= 4.0.0) ruby
+  railties (>= 3.0) ruby
+  execjs (>= 0.3.0) ruby
+  coffee-script (>= 2.2.0) ruby
+  xpath (~> 2.0) ruby
+  railties (< 5.0, >= 3.0) ruby
+  sdoc (= 0.3.20) ruby
+  jbuilder (= 1.0.2) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  sass (>= 3.1.10) ruby
+  actionpack (>= 3.0) ruby
+  multi_json (>= 1.0.2, ~> 1.0) ruby
+  actionpack (= 4.0.1) ruby
+  railties (< 5.0, >= 4.0.0) ruby
+  activesupport (= 4.0.1) ruby
+  thor (< 2.0, >= 0.14) ruby
+  rack-test (>= 0.5.4) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  websocket (~> 1.0.4) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+Attempting:
+  coffee-rails (>= 0) ruby
+    * [SUCCESS] Already activated
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+Requirements:
+  rack (>= 1.0.0) ruby
+  pg (= 0.15.1) ruby
+  rails_12factor (= 0.0.2) ruby
+  actionmailer (= 4.0.1) ruby
+  rspec-expectations (~> 2.13.0) ruby
+  activerecord (= 4.0.1) ruby
+  multi_json (~> 1.0) ruby
+  bundler (< 2.0, >= 1.3.0) ruby
+  railties (= 4.0.1) ruby
+  mime-types (>= 1.16) ruby
+  activesupport (>= 3.0) ruby
+  railties (< 5.0, >= 4.0.0) ruby
+  railties (>= 3.0) ruby
+  execjs (>= 0.3.0) ruby
+  coffee-script (>= 2.2.0) ruby
+  xpath (~> 2.0) ruby
+  railties (< 5.0, >= 3.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  jbuilder (= 1.0.2) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  sass (>= 3.1.10) ruby
+  actionpack (>= 3.0) ruby
+  multi_json (>= 1.0.2, ~> 1.0) ruby
+  actionpack (= 4.0.1) ruby
+  railties (< 5.0, >= 4.0.0) ruby
+  activesupport (= 4.0.1) ruby
+  thor (< 2.0, >= 0.14) ruby
+  rack-test (>= 0.5.4) ruby
+  sdoc (= 0.3.20) ruby
+  rspec-core (~> 2.13.0) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  websocket (~> 1.0.4) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+Attempting:
+  rack (>= 1.0.0) ruby
+  Activating: rack (1.5.2)
+    * capybara (= 2.1.0)
+    * rack (>= 1.0.0)
+    Dependencies
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+Requirements:
+  pg (= 0.15.1) ruby
+  rails_12factor (= 0.0.2) ruby
+  actionmailer (= 4.0.1) ruby
+  rspec-expectations (~> 2.13.0) ruby
+  activerecord (= 4.0.1) ruby
+  multi_json (~> 1.0) ruby
+  bundler (< 2.0, >= 1.3.0) ruby
+  railties (= 4.0.1) ruby
+  mime-types (>= 1.16) ruby
+  activesupport (>= 3.0) ruby
+  railties (< 5.0, >= 4.0.0) ruby
+  railties (>= 3.0) ruby
+  execjs (>= 0.3.0) ruby
+  coffee-script (>= 2.2.0) ruby
+  xpath (~> 2.0) ruby
+  railties (< 5.0, >= 3.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  sdoc (= 0.3.20) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  sass (>= 3.1.10) ruby
+  actionpack (>= 3.0) ruby
+  multi_json (>= 1.0.2, ~> 1.0) ruby
+  actionpack (= 4.0.1) ruby
+  railties (< 5.0, >= 4.0.0) ruby
+  activesupport (= 4.0.1) ruby
+  thor (< 2.0, >= 0.14) ruby
+  rack-test (>= 0.5.4) ruby
+  jbuilder (= 1.0.2) ruby
+  rspec-core (~> 2.13.0) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  websocket (~> 1.0.4) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+Attempting:
+  pg (= 0.15.1) ruby
+  Activating: pg (0.15.1)
+    * pg (= 0.15.1)
+    Dependencies
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+Requirements:
+  rails_12factor (= 0.0.2) ruby
+  actionmailer (= 4.0.1) ruby
+  rspec-expectations (~> 2.13.0) ruby
+  activerecord (= 4.0.1) ruby
+  multi_json (~> 1.0) ruby
+  bundler (< 2.0, >= 1.3.0) ruby
+  railties (= 4.0.1) ruby
+  mime-types (>= 1.16) ruby
+  activesupport (>= 3.0) ruby
+  railties (< 5.0, >= 4.0.0) ruby
+  railties (>= 3.0) ruby
+  execjs (>= 0.3.0) ruby
+  coffee-script (>= 2.2.0) ruby
+  xpath (~> 2.0) ruby
+  railties (< 5.0, >= 3.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  jbuilder (= 1.0.2) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  sass (>= 3.1.10) ruby
+  actionpack (>= 3.0) ruby
+  multi_json (>= 1.0.2, ~> 1.0) ruby
+  actionpack (= 4.0.1) ruby
+  railties (< 5.0, >= 4.0.0) ruby
+  activesupport (= 4.0.1) ruby
+  thor (< 2.0, >= 0.14) ruby
+  rack-test (>= 0.5.4) ruby
+  sdoc (= 0.3.20) ruby
+  rspec-core (~> 2.13.0) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  websocket (~> 1.0.4) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+Attempting:
+  rails_12factor (= 0.0.2) ruby
+  Activating: rails_12factor (0.0.2)
+    * rails_12factor (= 0.0.2)
+    Dependencies
+    * rails_serve_static_assets (>= 0)
+    * rails_stdout_logging (>= 0)
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+Requirements:
+  actionmailer (= 4.0.1) ruby
+  rspec-expectations (~> 2.13.0) ruby
+  activerecord (= 4.0.1) ruby
+  multi_json (~> 1.0) ruby
+  bundler (< 2.0, >= 1.3.0) ruby
+  railties (= 4.0.1) ruby
+  mime-types (>= 1.16) ruby
+  activesupport (>= 3.0) ruby
+  railties (< 5.0, >= 4.0.0) ruby
+  railties (>= 3.0) ruby
+  execjs (>= 0.3.0) ruby
+  coffee-script (>= 2.2.0) ruby
+  xpath (~> 2.0) ruby
+  railties (< 5.0, >= 3.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  jbuilder (= 1.0.2) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  rails_serve_static_assets (>= 0) ruby
+  actionpack (>= 3.0) ruby
+  multi_json (>= 1.0.2, ~> 1.0) ruby
+  actionpack (= 4.0.1) ruby
+  railties (< 5.0, >= 4.0.0) ruby
+  activesupport (= 4.0.1) ruby
+  thor (< 2.0, >= 0.14) ruby
+  rack-test (>= 0.5.4) ruby
+  sdoc (= 0.3.20) ruby
+  sass (>= 3.1.10) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+Attempting:
+  actionmailer (= 4.0.1) ruby
+  Activating: actionmailer (4.0.1)
+    * rails (= 4.0.1)
+    * actionmailer (= 4.0.1)
+    Dependencies
+    * actionpack (= 4.0.1)
+    * mail (~> 2.5.4)
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+Requirements:
+  rspec-expectations (~> 2.13.0) ruby
+  activerecord (= 4.0.1) ruby
+  multi_json (~> 1.0) ruby
+  bundler (< 2.0, >= 1.3.0) ruby
+  railties (= 4.0.1) ruby
+  mime-types (>= 1.16) ruby
+  activesupport (>= 3.0) ruby
+  railties (< 5.0, >= 4.0.0) ruby
+  railties (>= 3.0) ruby
+  execjs (>= 0.3.0) ruby
+  coffee-script (>= 2.2.0) ruby
+  xpath (~> 2.0) ruby
+  railties (< 5.0, >= 3.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  jbuilder (= 1.0.2) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  rails_serve_static_assets (>= 0) ruby
+  actionpack (= 4.0.1) ruby
+  multi_json (>= 1.0.2, ~> 1.0) ruby
+  actionpack (= 4.0.1) ruby
+  railties (< 5.0, >= 4.0.0) ruby
+  activesupport (= 4.0.1) ruby
+  thor (< 2.0, >= 0.14) ruby
+  rack-test (>= 0.5.4) ruby
+  sdoc (= 0.3.20) ruby
+  sass (>= 3.1.10) ruby
+  mail (~> 2.5.4) ruby
+  actionpack (>= 3.0) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+Attempting:
+  rspec-expectations (~> 2.13.0) ruby
+  Activating: rspec-expectations (2.13.0)
+    * rspec-rails (= 2.13.1)
+    * rspec-expectations (~> 2.13.0)
+    Dependencies
+    * diff-lcs (< 2.0, >= 1.1.3)
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+Requirements:
+  activerecord (= 4.0.1) ruby
+  multi_json (~> 1.0) ruby
+  bundler (< 2.0, >= 1.3.0) ruby
+  railties (= 4.0.1) ruby
+  mime-types (>= 1.16) ruby
+  activesupport (>= 3.0) ruby
+  railties (< 5.0, >= 4.0.0) ruby
+  railties (>= 3.0) ruby
+  execjs (>= 0.3.0) ruby
+  coffee-script (>= 2.2.0) ruby
+  xpath (~> 2.0) ruby
+  railties (< 5.0, >= 3.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  jbuilder (= 1.0.2) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  rails_serve_static_assets (>= 0) ruby
+  actionpack (= 4.0.1) ruby
+  actionpack (>= 3.0) ruby
+  actionpack (= 4.0.1) ruby
+  railties (< 5.0, >= 4.0.0) ruby
+  activesupport (= 4.0.1) ruby
+  thor (< 2.0, >= 0.14) ruby
+  rack-test (>= 0.5.4) ruby
+  sdoc (= 0.3.20) ruby
+  sass (>= 3.1.10) ruby
+  mail (~> 2.5.4) ruby
+  multi_json (>= 1.0.2, ~> 1.0) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+Attempting:
+  activerecord (= 4.0.1) ruby
+  Activating: activerecord (4.0.1)
+    * rails (= 4.0.1)
+    * activerecord (= 4.0.1)
+    Dependencies
+    * activemodel (= 4.0.1)
+    * activerecord-deprecated_finders (~> 1.0.2)
+    * activesupport (= 4.0.1)
+    * arel (~> 4.0.0)
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+Requirements:
+  multi_json (~> 1.0) ruby
+  bundler (< 2.0, >= 1.3.0) ruby
+  railties (= 4.0.1) ruby
+  mime-types (>= 1.16) ruby
+  activesupport (>= 3.0) ruby
+  railties (< 5.0, >= 4.0.0) ruby
+  railties (>= 3.0) ruby
+  execjs (>= 0.3.0) ruby
+  coffee-script (>= 2.2.0) ruby
+  xpath (~> 2.0) ruby
+  railties (< 5.0, >= 3.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  jbuilder (= 1.0.2) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  rails_serve_static_assets (>= 0) ruby
+  actionpack (= 4.0.1) ruby
+  actionpack (>= 3.0) ruby
+  actionpack (= 4.0.1) ruby
+  railties (< 5.0, >= 4.0.0) ruby
+  activemodel (= 4.0.1) ruby
+  thor (< 2.0, >= 0.14) ruby
+  rack-test (>= 0.5.4) ruby
+  sdoc (= 0.3.20) ruby
+  sass (>= 3.1.10) ruby
+  mail (~> 2.5.4) ruby
+  multi_json (>= 1.0.2, ~> 1.0) ruby
+  arel (~> 4.0.0) ruby
+  activesupport (= 4.0.1) ruby
+  activerecord-deprecated_finders (~> 1.0.2) ruby
+  activesupport (= 4.0.1) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+Attempting:
+  multi_json (~> 1.0) ruby
+  Activating: multi_json (1.8.2)
+    * selenium-webdriver (= 2.35.1)
+    * multi_json (~> 1.0)
+    Dependencies
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+Requirements:
+  multi_json (>= 1.0.2, ~> 1.0) ruby
+  actionpack (= 4.0.1) ruby
+  mime-types (>= 1.16) ruby
+  activesupport (>= 3.0) ruby
+  railties (< 5.0, >= 4.0.0) ruby
+  railties (>= 3.0) ruby
+  execjs (>= 0.3.0) ruby
+  coffee-script (>= 2.2.0) ruby
+  xpath (~> 2.0) ruby
+  railties (< 5.0, >= 3.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  jbuilder (= 1.0.2) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  rails_serve_static_assets (>= 0) ruby
+  railties (= 4.0.1) ruby
+  actionpack (>= 3.0) ruby
+  actionpack (= 4.0.1) ruby
+  railties (< 5.0, >= 4.0.0) ruby
+  activesupport (= 4.0.1) ruby
+  thor (< 2.0, >= 0.14) ruby
+  rack-test (>= 0.5.4) ruby
+  sdoc (= 0.3.20) ruby
+  sass (>= 3.1.10) ruby
+  mail (~> 2.5.4) ruby
+  bundler (< 2.0, >= 1.3.0) ruby
+  arel (~> 4.0.0) ruby
+  activesupport (= 4.0.1) ruby
+  activerecord-deprecated_finders (~> 1.0.2) ruby
+  activemodel (= 4.0.1) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+Attempting:
+  multi_json (>= 1.0.2, ~> 1.0) ruby
+    * [SUCCESS] Already activated
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+Requirements:
+  actionpack (= 4.0.1) ruby
+  mime-types (>= 1.16) ruby
+  activesupport (>= 3.0) ruby
+  railties (< 5.0, >= 4.0.0) ruby
+  railties (>= 3.0) ruby
+  execjs (>= 0.3.0) ruby
+  coffee-script (>= 2.2.0) ruby
+  xpath (~> 2.0) ruby
+  railties (< 5.0, >= 3.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  jbuilder (= 1.0.2) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  rails_serve_static_assets (>= 0) ruby
+  railties (= 4.0.1) ruby
+  actionpack (>= 3.0) ruby
+  actionpack (= 4.0.1) ruby
+  railties (< 5.0, >= 4.0.0) ruby
+  activesupport (= 4.0.1) ruby
+  activemodel (= 4.0.1) ruby
+  rack-test (>= 0.5.4) ruby
+  sdoc (= 0.3.20) ruby
+  sass (>= 3.1.10) ruby
+  mail (~> 2.5.4) ruby
+  bundler (< 2.0, >= 1.3.0) ruby
+  arel (~> 4.0.0) ruby
+  activesupport (= 4.0.1) ruby
+  activerecord-deprecated_finders (~> 1.0.2) ruby
+  thor (< 2.0, >= 0.14) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+Attempting:
+  actionpack (= 4.0.1) ruby
+  Activating: actionpack (4.0.1)
+    * rails (= 4.0.1)
+    * actionmailer (= 4.0.1)
+    * actionpack (= 4.0.1)
+    Dependencies
+    * activesupport (= 4.0.1)
+    * builder (~> 3.1.0)
+    * erubis (~> 2.7.0)
+    * rack (~> 1.5.2)
+    * rack-test (~> 0.6.2)
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+Requirements:
+  actionpack (>= 3.0) ruby
+  rack (~> 1.5.2) ruby
+  actionpack (= 4.0.1) ruby
+  sass (>= 3.1.10) ruby
+  execjs (>= 0.3.0) ruby
+  coffee-script (>= 2.2.0) ruby
+  xpath (~> 2.0) ruby
+  railties (< 5.0, >= 3.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  jbuilder (= 1.0.2) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  rails_serve_static_assets (>= 0) ruby
+  railties (= 4.0.1) ruby
+  mime-types (>= 1.16) ruby
+  railties (< 5.0, >= 4.0.0) ruby
+  railties (< 5.0, >= 4.0.0) ruby
+  activesupport (= 4.0.1) ruby
+  activemodel (= 4.0.1) ruby
+  rack-test (>= 0.5.4) ruby
+  sdoc (= 0.3.20) ruby
+  railties (>= 3.0) ruby
+  mail (~> 2.5.4) ruby
+  activesupport (= 4.0.1) ruby
+  arel (~> 4.0.0) ruby
+  activesupport (= 4.0.1) ruby
+  activerecord-deprecated_finders (~> 1.0.2) ruby
+  thor (< 2.0, >= 0.14) ruby
+  rack-test (~> 0.6.2) ruby
+  activesupport (>= 3.0) ruby
+  erubis (~> 2.7.0) ruby
+  builder (~> 3.1.0) ruby
+  bundler (< 2.0, >= 1.3.0) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+Attempting:
+  actionpack (>= 3.0) ruby
+    * [SUCCESS] Already activated
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+Requirements:
+  rack (~> 1.5.2) ruby
+  actionpack (= 4.0.1) ruby
+  activesupport (= 4.0.1) ruby
+  execjs (>= 0.3.0) ruby
+  coffee-script (>= 2.2.0) ruby
+  xpath (~> 2.0) ruby
+  railties (< 5.0, >= 3.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  jbuilder (= 1.0.2) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  rails_serve_static_assets (>= 0) ruby
+  railties (= 4.0.1) ruby
+  mime-types (>= 1.16) ruby
+  railties (< 5.0, >= 4.0.0) ruby
+  railties (< 5.0, >= 4.0.0) ruby
+  sass (>= 3.1.10) ruby
+  activemodel (= 4.0.1) ruby
+  rack-test (>= 0.5.4) ruby
+  sdoc (= 0.3.20) ruby
+  bundler (< 2.0, >= 1.3.0) ruby
+  mail (~> 2.5.4) ruby
+  activesupport (= 4.0.1) ruby
+  arel (~> 4.0.0) ruby
+  activesupport (= 4.0.1) ruby
+  activerecord-deprecated_finders (~> 1.0.2) ruby
+  thor (< 2.0, >= 0.14) ruby
+  rack-test (~> 0.6.2) ruby
+  activesupport (>= 3.0) ruby
+  erubis (~> 2.7.0) ruby
+  builder (~> 3.1.0) ruby
+  railties (>= 3.0) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+Attempting:
+  rack (~> 1.5.2) ruby
+    * [SUCCESS] Already activated
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+Requirements:
+  actionpack (= 4.0.1) ruby
+  activesupport (= 4.0.1) ruby
+  execjs (>= 0.3.0) ruby
+  coffee-script (>= 2.2.0) ruby
+  xpath (~> 2.0) ruby
+  railties (< 5.0, >= 3.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  jbuilder (= 1.0.2) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  rails_serve_static_assets (>= 0) ruby
+  railties (= 4.0.1) ruby
+  mime-types (>= 1.16) ruby
+  railties (< 5.0, >= 4.0.0) ruby
+  railties (< 5.0, >= 4.0.0) ruby
+  sass (>= 3.1.10) ruby
+  activemodel (= 4.0.1) ruby
+  rack-test (>= 0.5.4) ruby
+  sdoc (= 0.3.20) ruby
+  bundler (< 2.0, >= 1.3.0) ruby
+  railties (>= 3.0) ruby
+  activesupport (= 4.0.1) ruby
+  arel (~> 4.0.0) ruby
+  activesupport (= 4.0.1) ruby
+  activerecord-deprecated_finders (~> 1.0.2) ruby
+  thor (< 2.0, >= 0.14) ruby
+  rack-test (~> 0.6.2) ruby
+  activesupport (>= 3.0) ruby
+  erubis (~> 2.7.0) ruby
+  builder (~> 3.1.0) ruby
+  mail (~> 2.5.4) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+Attempting:
+  actionpack (= 4.0.1) ruby
+    * [SUCCESS] Already activated
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+Requirements:
+  activesupport (= 4.0.1) ruby
+  execjs (>= 0.3.0) ruby
+  coffee-script (>= 2.2.0) ruby
+  xpath (~> 2.0) ruby
+  railties (< 5.0, >= 3.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  jbuilder (= 1.0.2) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  rails_serve_static_assets (>= 0) ruby
+  railties (= 4.0.1) ruby
+  mime-types (>= 1.16) ruby
+  railties (< 5.0, >= 4.0.0) ruby
+  railties (< 5.0, >= 4.0.0) ruby
+  sass (>= 3.1.10) ruby
+  activemodel (= 4.0.1) ruby
+  rack-test (>= 0.5.4) ruby
+  sdoc (= 0.3.20) ruby
+  bundler (< 2.0, >= 1.3.0) ruby
+  mail (~> 2.5.4) ruby
+  activesupport (= 4.0.1) ruby
+  arel (~> 4.0.0) ruby
+  activesupport (= 4.0.1) ruby
+  activerecord-deprecated_finders (~> 1.0.2) ruby
+  thor (< 2.0, >= 0.14) ruby
+  rack-test (~> 0.6.2) ruby
+  activesupport (>= 3.0) ruby
+  erubis (~> 2.7.0) ruby
+  builder (~> 3.1.0) ruby
+  railties (>= 3.0) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+Attempting:
+  activesupport (= 4.0.1) ruby
+  Activating: activesupport (4.0.1)
+    * rails (= 4.0.1)
+    * activesupport (= 4.0.1)
+    Dependencies
+    * i18n (>= 0.6.4, ~> 0.6)
+    * minitest (~> 4.2)
+    * multi_json (~> 1.3)
+    * thread_safe (~> 0.1)
+    * tzinfo (~> 0.3.37)
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+Requirements:
+  activesupport (= 4.0.1) ruby
+  multi_json (~> 1.3) ruby
+  activesupport (>= 3.0) ruby
+  activesupport (= 4.0.1) ruby
+  execjs (>= 0.3.0) ruby
+  jbuilder (= 1.0.2) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  rails_serve_static_assets (>= 0) ruby
+  railties (= 4.0.1) ruby
+  mime-types (>= 1.16) ruby
+  railties (< 5.0, >= 4.0.0) ruby
+  railties (< 5.0, >= 4.0.0) ruby
+  sass (>= 3.1.10) ruby
+  activemodel (= 4.0.1) ruby
+  rack-test (>= 0.5.4) ruby
+  sdoc (= 0.3.20) ruby
+  bundler (< 2.0, >= 1.3.0) ruby
+  mail (~> 2.5.4) ruby
+  railties (< 5.0, >= 3.0) ruby
+  arel (~> 4.0.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  activerecord-deprecated_finders (~> 1.0.2) ruby
+  thor (< 2.0, >= 0.14) ruby
+  i18n (>= 0.6.4, ~> 0.6) ruby
+  xpath (~> 2.0) ruby
+  erubis (~> 2.7.0) ruby
+  builder (~> 3.1.0) ruby
+  railties (>= 3.0) ruby
+  tzinfo (~> 0.3.37) ruby
+  thread_safe (~> 0.1) ruby
+  coffee-script (>= 2.2.0) ruby
+  minitest (~> 4.2) ruby
+  rack-test (~> 0.6.2) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+Attempting:
+  activesupport (= 4.0.1) ruby
+    * [SUCCESS] Already activated
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+Requirements:
+  multi_json (~> 1.3) ruby
+  activesupport (>= 3.0) ruby
+  activesupport (= 4.0.1) ruby
+  bundler (< 2.0, >= 1.3.0) ruby
+  jbuilder (= 1.0.2) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  rails_serve_static_assets (>= 0) ruby
+  railties (= 4.0.1) ruby
+  mime-types (>= 1.16) ruby
+  railties (< 5.0, >= 4.0.0) ruby
+  railties (< 5.0, >= 4.0.0) ruby
+  sass (>= 3.1.10) ruby
+  activemodel (= 4.0.1) ruby
+  rack-test (>= 0.5.4) ruby
+  sdoc (= 0.3.20) ruby
+  execjs (>= 0.3.0) ruby
+  mail (~> 2.5.4) ruby
+  railties (< 5.0, >= 3.0) ruby
+  arel (~> 4.0.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  rack-test (~> 0.6.2) ruby
+  thor (< 2.0, >= 0.14) ruby
+  i18n (>= 0.6.4, ~> 0.6) ruby
+  xpath (~> 2.0) ruby
+  erubis (~> 2.7.0) ruby
+  builder (~> 3.1.0) ruby
+  railties (>= 3.0) ruby
+  tzinfo (~> 0.3.37) ruby
+  thread_safe (~> 0.1) ruby
+  coffee-script (>= 2.2.0) ruby
+  minitest (~> 4.2) ruby
+  activerecord-deprecated_finders (~> 1.0.2) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+Attempting:
+  multi_json (~> 1.3) ruby
+    * [SUCCESS] Already activated
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+Requirements:
+  activesupport (>= 3.0) ruby
+  activesupport (= 4.0.1) ruby
+  mail (~> 2.5.4) ruby
+  jbuilder (= 1.0.2) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  rails_serve_static_assets (>= 0) ruby
+  railties (= 4.0.1) ruby
+  mime-types (>= 1.16) ruby
+  railties (< 5.0, >= 4.0.0) ruby
+  railties (< 5.0, >= 4.0.0) ruby
+  sass (>= 3.1.10) ruby
+  activemodel (= 4.0.1) ruby
+  rack-test (>= 0.5.4) ruby
+  sdoc (= 0.3.20) ruby
+  execjs (>= 0.3.0) ruby
+  bundler (< 2.0, >= 1.3.0) ruby
+  railties (< 5.0, >= 3.0) ruby
+  arel (~> 4.0.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  activerecord-deprecated_finders (~> 1.0.2) ruby
+  thor (< 2.0, >= 0.14) ruby
+  i18n (>= 0.6.4, ~> 0.6) ruby
+  xpath (~> 2.0) ruby
+  erubis (~> 2.7.0) ruby
+  builder (~> 3.1.0) ruby
+  railties (>= 3.0) ruby
+  tzinfo (~> 0.3.37) ruby
+  thread_safe (~> 0.1) ruby
+  coffee-script (>= 2.2.0) ruby
+  minitest (~> 4.2) ruby
+  rack-test (~> 0.6.2) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+Attempting:
+  activesupport (>= 3.0) ruby
+    * [SUCCESS] Already activated
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+Requirements:
+  activesupport (= 4.0.1) ruby
+  mail (~> 2.5.4) ruby
+  jbuilder (= 1.0.2) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  rails_serve_static_assets (>= 0) ruby
+  railties (= 4.0.1) ruby
+  mime-types (>= 1.16) ruby
+  railties (< 5.0, >= 4.0.0) ruby
+  railties (< 5.0, >= 4.0.0) ruby
+  sass (>= 3.1.10) ruby
+  activemodel (= 4.0.1) ruby
+  rack-test (>= 0.5.4) ruby
+  sdoc (= 0.3.20) ruby
+  execjs (>= 0.3.0) ruby
+  bundler (< 2.0, >= 1.3.0) ruby
+  railties (< 5.0, >= 3.0) ruby
+  arel (~> 4.0.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  activerecord-deprecated_finders (~> 1.0.2) ruby
+  rack-test (~> 0.6.2) ruby
+  i18n (>= 0.6.4, ~> 0.6) ruby
+  xpath (~> 2.0) ruby
+  erubis (~> 2.7.0) ruby
+  builder (~> 3.1.0) ruby
+  railties (>= 3.0) ruby
+  tzinfo (~> 0.3.37) ruby
+  thread_safe (~> 0.1) ruby
+  coffee-script (>= 2.2.0) ruby
+  minitest (~> 4.2) ruby
+  thor (< 2.0, >= 0.14) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+Attempting:
+  activesupport (= 4.0.1) ruby
+    * [SUCCESS] Already activated
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+Requirements:
+  mail (~> 2.5.4) ruby
+  jbuilder (= 1.0.2) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  rails_serve_static_assets (>= 0) ruby
+  railties (= 4.0.1) ruby
+  mime-types (>= 1.16) ruby
+  railties (< 5.0, >= 4.0.0) ruby
+  railties (< 5.0, >= 4.0.0) ruby
+  sass (>= 3.1.10) ruby
+  activemodel (= 4.0.1) ruby
+  rack-test (>= 0.5.4) ruby
+  sdoc (= 0.3.20) ruby
+  execjs (>= 0.3.0) ruby
+  bundler (< 2.0, >= 1.3.0) ruby
+  railties (< 5.0, >= 3.0) ruby
+  arel (~> 4.0.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  activerecord-deprecated_finders (~> 1.0.2) ruby
+  thor (< 2.0, >= 0.14) ruby
+  i18n (>= 0.6.4, ~> 0.6) ruby
+  xpath (~> 2.0) ruby
+  erubis (~> 2.7.0) ruby
+  builder (~> 3.1.0) ruby
+  railties (>= 3.0) ruby
+  tzinfo (~> 0.3.37) ruby
+  thread_safe (~> 0.1) ruby
+  coffee-script (>= 2.2.0) ruby
+  minitest (~> 4.2) ruby
+  rack-test (~> 0.6.2) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+Attempting:
+  mail (~> 2.5.4) ruby
+  Activating: mail (2.5.4)
+    * rails (= 4.0.1)
+    * actionmailer (= 4.0.1)
+    * mail (~> 2.5.4)
+    Dependencies
+    * mime-types (~> 1.16)
+    * treetop (~> 1.4.8)
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+Requirements:
+  jbuilder (= 1.0.2) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  rails_serve_static_assets (>= 0) ruby
+  railties (= 4.0.1) ruby
+  mime-types (>= 1.16) ruby
+  railties (< 5.0, >= 4.0.0) ruby
+  railties (< 5.0, >= 4.0.0) ruby
+  sass (>= 3.1.10) ruby
+  activemodel (= 4.0.1) ruby
+  rack-test (>= 0.5.4) ruby
+  sdoc (= 0.3.20) ruby
+  execjs (>= 0.3.0) ruby
+  bundler (< 2.0, >= 1.3.0) ruby
+  railties (< 5.0, >= 3.0) ruby
+  arel (~> 4.0.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  activerecord-deprecated_finders (~> 1.0.2) ruby
+  thor (< 2.0, >= 0.14) ruby
+  i18n (>= 0.6.4, ~> 0.6) ruby
+  mime-types (~> 1.16) ruby
+  erubis (~> 2.7.0) ruby
+  builder (~> 3.1.0) ruby
+  railties (>= 3.0) ruby
+  tzinfo (~> 0.3.37) ruby
+  thread_safe (~> 0.1) ruby
+  coffee-script (>= 2.2.0) ruby
+  minitest (~> 4.2) ruby
+  rack-test (~> 0.6.2) ruby
+  treetop (~> 1.4.8) ruby
+  xpath (~> 2.0) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+Attempting:
+  jbuilder (= 1.0.2) ruby
+  Activating: jbuilder (1.0.2)
+    * jbuilder (= 1.0.2)
+    Dependencies
+    * activesupport (>= 3.0.0)
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+Requirements:
+  activesupport (>= 3.0.0) ruby
+  erubis (~> 2.7.0) ruby
+  railties (= 4.0.1) ruby
+  mime-types (>= 1.16) ruby
+  railties (< 5.0, >= 4.0.0) ruby
+  railties (< 5.0, >= 4.0.0) ruby
+  sass (>= 3.1.10) ruby
+  activemodel (= 4.0.1) ruby
+  rack-test (>= 0.5.4) ruby
+  sdoc (= 0.3.20) ruby
+  execjs (>= 0.3.0) ruby
+  bundler (< 2.0, >= 1.3.0) ruby
+  railties (< 5.0, >= 3.0) ruby
+  arel (~> 4.0.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  activerecord-deprecated_finders (~> 1.0.2) ruby
+  thor (< 2.0, >= 0.14) ruby
+  i18n (>= 0.6.4, ~> 0.6) ruby
+  mime-types (~> 1.16) ruby
+  rails_serve_static_assets (>= 0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  railties (>= 3.0) ruby
+  tzinfo (~> 0.3.37) ruby
+  thread_safe (~> 0.1) ruby
+  coffee-script (>= 2.2.0) ruby
+  minitest (~> 4.2) ruby
+  rack-test (~> 0.6.2) ruby
+  treetop (~> 1.4.8) ruby
+  xpath (~> 2.0) ruby
+  builder (~> 3.1.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+Attempting:
+  activesupport (>= 3.0.0) ruby
+    * [SUCCESS] Already activated
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+Requirements:
+  erubis (~> 2.7.0) ruby
+  railties (= 4.0.1) ruby
+  mime-types (>= 1.16) ruby
+  railties (< 5.0, >= 4.0.0) ruby
+  railties (< 5.0, >= 4.0.0) ruby
+  sass (>= 3.1.10) ruby
+  activemodel (= 4.0.1) ruby
+  rack-test (>= 0.5.4) ruby
+  sdoc (= 0.3.20) ruby
+  execjs (>= 0.3.0) ruby
+  bundler (< 2.0, >= 1.3.0) ruby
+  railties (< 5.0, >= 3.0) ruby
+  arel (~> 4.0.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  activerecord-deprecated_finders (~> 1.0.2) ruby
+  thor (< 2.0, >= 0.14) ruby
+  i18n (>= 0.6.4, ~> 0.6) ruby
+  mime-types (~> 1.16) ruby
+  builder (~> 3.1.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  railties (>= 3.0) ruby
+  tzinfo (~> 0.3.37) ruby
+  thread_safe (~> 0.1) ruby
+  coffee-script (>= 2.2.0) ruby
+  minitest (~> 4.2) ruby
+  rack-test (~> 0.6.2) ruby
+  treetop (~> 1.4.8) ruby
+  xpath (~> 2.0) ruby
+  rails_serve_static_assets (>= 0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+Attempting:
+  erubis (~> 2.7.0) ruby
+  Activating: erubis (2.7.0)
+    * rails (= 4.0.1)
+    * actionmailer (= 4.0.1)
+    * actionpack (= 4.0.1)
+    * erubis (~> 2.7.0)
+    Dependencies
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+Requirements:
+  railties (= 4.0.1) ruby
+  mime-types (>= 1.16) ruby
+  railties (< 5.0, >= 4.0.0) ruby
+  railties (< 5.0, >= 4.0.0) ruby
+  sass (>= 3.1.10) ruby
+  activemodel (= 4.0.1) ruby
+  rack-test (>= 0.5.4) ruby
+  sdoc (= 0.3.20) ruby
+  execjs (>= 0.3.0) ruby
+  bundler (< 2.0, >= 1.3.0) ruby
+  railties (< 5.0, >= 3.0) ruby
+  arel (~> 4.0.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  activerecord-deprecated_finders (~> 1.0.2) ruby
+  thor (< 2.0, >= 0.14) ruby
+  i18n (>= 0.6.4, ~> 0.6) ruby
+  mime-types (~> 1.16) ruby
+  builder (~> 3.1.0) ruby
+  rails_serve_static_assets (>= 0) ruby
+  railties (>= 3.0) ruby
+  tzinfo (~> 0.3.37) ruby
+  thread_safe (~> 0.1) ruby
+  coffee-script (>= 2.2.0) ruby
+  minitest (~> 4.2) ruby
+  rack-test (~> 0.6.2) ruby
+  treetop (~> 1.4.8) ruby
+  xpath (~> 2.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+Attempting:
+  railties (= 4.0.1) ruby
+  Activating: railties (4.0.1)
+    * rails (= 4.0.1)
+    * railties (= 4.0.1)
+    Dependencies
+    * actionpack (= 4.0.1)
+    * activesupport (= 4.0.1)
+    * rake (>= 0.8.7)
+    * thor (< 2.0, >= 0.18.1)
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+Requirements:
+  railties (< 5.0, >= 4.0.0) ruby
+  activesupport (= 4.0.1) ruby
+  railties (< 5.0, >= 4.0.0) ruby
+  actionpack (= 4.0.1) ruby
+  railties (>= 3.0) ruby
+  railties (< 5.0, >= 3.0) ruby
+  tzinfo (~> 0.3.37) ruby
+  execjs (>= 0.3.0) ruby
+  bundler (< 2.0, >= 1.3.0) ruby
+  rack-test (>= 0.5.4) ruby
+  arel (~> 4.0.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  activerecord-deprecated_finders (~> 1.0.2) ruby
+  thor (< 2.0, >= 0.14) ruby
+  i18n (>= 0.6.4, ~> 0.6) ruby
+  mime-types (~> 1.16) ruby
+  builder (~> 3.1.0) ruby
+  rails_serve_static_assets (>= 0) ruby
+  activemodel (= 4.0.1) ruby
+  sdoc (= 0.3.20) ruby
+  thread_safe (~> 0.1) ruby
+  coffee-script (>= 2.2.0) ruby
+  minitest (~> 4.2) ruby
+  sass (>= 3.1.10) ruby
+  treetop (~> 1.4.8) ruby
+  xpath (~> 2.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  thor (< 2.0, >= 0.18.1) ruby
+  rake (>= 0.8.7) ruby
+  mime-types (>= 1.16) ruby
+  rack-test (~> 0.6.2) ruby
+  rspec-core (~> 2.13.0) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+Attempting:
+  railties (< 5.0, >= 4.0.0) ruby
+    * [SUCCESS] Already activated
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+Requirements:
+  activesupport (= 4.0.1) ruby
+  railties (< 5.0, >= 4.0.0) ruby
+  actionpack (= 4.0.1) ruby
+  railties (>= 3.0) ruby
+  railties (< 5.0, >= 3.0) ruby
+  mime-types (~> 1.16) ruby
+  execjs (>= 0.3.0) ruby
+  bundler (< 2.0, >= 1.3.0) ruby
+  rack-test (>= 0.5.4) ruby
+  arel (~> 4.0.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  activerecord-deprecated_finders (~> 1.0.2) ruby
+  thor (< 2.0, >= 0.14) ruby
+  i18n (>= 0.6.4, ~> 0.6) ruby
+  tzinfo (~> 0.3.37) ruby
+  builder (~> 3.1.0) ruby
+  rails_serve_static_assets (>= 0) ruby
+  activemodel (= 4.0.1) ruby
+  sdoc (= 0.3.20) ruby
+  rack-test (~> 0.6.2) ruby
+  coffee-script (>= 2.2.0) ruby
+  minitest (~> 4.2) ruby
+  sass (>= 3.1.10) ruby
+  treetop (~> 1.4.8) ruby
+  xpath (~> 2.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  thor (< 2.0, >= 0.18.1) ruby
+  rake (>= 0.8.7) ruby
+  mime-types (>= 1.16) ruby
+  thread_safe (~> 0.1) ruby
+  rspec-core (~> 2.13.0) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+Attempting:
+  activesupport (= 4.0.1) ruby
+    * [SUCCESS] Already activated
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+Requirements:
+  railties (< 5.0, >= 4.0.0) ruby
+  actionpack (= 4.0.1) ruby
+  railties (>= 3.0) ruby
+  railties (< 5.0, >= 3.0) ruby
+  builder (~> 3.1.0) ruby
+  execjs (>= 0.3.0) ruby
+  bundler (< 2.0, >= 1.3.0) ruby
+  rack-test (>= 0.5.4) ruby
+  arel (~> 4.0.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  activerecord-deprecated_finders (~> 1.0.2) ruby
+  thor (< 2.0, >= 0.14) ruby
+  i18n (>= 0.6.4, ~> 0.6) ruby
+  tzinfo (~> 0.3.37) ruby
+  mime-types (~> 1.16) ruby
+  rails_serve_static_assets (>= 0) ruby
+  activemodel (= 4.0.1) ruby
+  sdoc (= 0.3.20) ruby
+  thread_safe (~> 0.1) ruby
+  coffee-script (>= 2.2.0) ruby
+  minitest (~> 4.2) ruby
+  sass (>= 3.1.10) ruby
+  treetop (~> 1.4.8) ruby
+  xpath (~> 2.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  thor (< 2.0, >= 0.18.1) ruby
+  rake (>= 0.8.7) ruby
+  mime-types (>= 1.16) ruby
+  rack-test (~> 0.6.2) ruby
+  rspec-core (~> 2.13.0) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+Attempting:
+  railties (< 5.0, >= 4.0.0) ruby
+    * [SUCCESS] Already activated
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+Requirements:
+  actionpack (= 4.0.1) ruby
+  railties (>= 3.0) ruby
+  railties (< 5.0, >= 3.0) ruby
+  mime-types (~> 1.16) ruby
+  execjs (>= 0.3.0) ruby
+  bundler (< 2.0, >= 1.3.0) ruby
+  rack-test (>= 0.5.4) ruby
+  arel (~> 4.0.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  activerecord-deprecated_finders (~> 1.0.2) ruby
+  thor (< 2.0, >= 0.14) ruby
+  i18n (>= 0.6.4, ~> 0.6) ruby
+  tzinfo (~> 0.3.37) ruby
+  builder (~> 3.1.0) ruby
+  rails_serve_static_assets (>= 0) ruby
+  activemodel (= 4.0.1) ruby
+  sdoc (= 0.3.20) ruby
+  thread_safe (~> 0.1) ruby
+  rack-test (~> 0.6.2) ruby
+  minitest (~> 4.2) ruby
+  sass (>= 3.1.10) ruby
+  treetop (~> 1.4.8) ruby
+  xpath (~> 2.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  thor (< 2.0, >= 0.18.1) ruby
+  rake (>= 0.8.7) ruby
+  mime-types (>= 1.16) ruby
+  coffee-script (>= 2.2.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+Attempting:
+  actionpack (= 4.0.1) ruby
+    * [SUCCESS] Already activated
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+Requirements:
+  railties (>= 3.0) ruby
+  railties (< 5.0, >= 3.0) ruby
+  rails_serve_static_assets (>= 0) ruby
+  execjs (>= 0.3.0) ruby
+  bundler (< 2.0, >= 1.3.0) ruby
+  rack-test (>= 0.5.4) ruby
+  arel (~> 4.0.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  activerecord-deprecated_finders (~> 1.0.2) ruby
+  thor (< 2.0, >= 0.14) ruby
+  i18n (>= 0.6.4, ~> 0.6) ruby
+  tzinfo (~> 0.3.37) ruby
+  builder (~> 3.1.0) ruby
+  mime-types (~> 1.16) ruby
+  activemodel (= 4.0.1) ruby
+  sdoc (= 0.3.20) ruby
+  thread_safe (~> 0.1) ruby
+  coffee-script (>= 2.2.0) ruby
+  minitest (~> 4.2) ruby
+  sass (>= 3.1.10) ruby
+  treetop (~> 1.4.8) ruby
+  xpath (~> 2.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  thor (< 2.0, >= 0.18.1) ruby
+  rake (>= 0.8.7) ruby
+  mime-types (>= 1.16) ruby
+  rack-test (~> 0.6.2) ruby
+  rspec-core (~> 2.13.0) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+Attempting:
+  railties (>= 3.0) ruby
+    * [SUCCESS] Already activated
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+Requirements:
+  railties (< 5.0, >= 3.0) ruby
+  rails_serve_static_assets (>= 0) ruby
+  execjs (>= 0.3.0) ruby
+  bundler (< 2.0, >= 1.3.0) ruby
+  rack-test (>= 0.5.4) ruby
+  arel (~> 4.0.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  activerecord-deprecated_finders (~> 1.0.2) ruby
+  thor (< 2.0, >= 0.14) ruby
+  i18n (>= 0.6.4, ~> 0.6) ruby
+  tzinfo (~> 0.3.37) ruby
+  builder (~> 3.1.0) ruby
+  mime-types (~> 1.16) ruby
+  activemodel (= 4.0.1) ruby
+  sdoc (= 0.3.20) ruby
+  thread_safe (~> 0.1) ruby
+  coffee-script (>= 2.2.0) ruby
+  rack-test (~> 0.6.2) ruby
+  sass (>= 3.1.10) ruby
+  treetop (~> 1.4.8) ruby
+  xpath (~> 2.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  thor (< 2.0, >= 0.18.1) ruby
+  rake (>= 0.8.7) ruby
+  mime-types (>= 1.16) ruby
+  minitest (~> 4.2) ruby
+  rspec-core (~> 2.13.0) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+Attempting:
+  railties (< 5.0, >= 3.0) ruby
+    * [SUCCESS] Already activated
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+Requirements:
+  rails_serve_static_assets (>= 0) ruby
+  execjs (>= 0.3.0) ruby
+  bundler (< 2.0, >= 1.3.0) ruby
+  rack-test (>= 0.5.4) ruby
+  arel (~> 4.0.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  activerecord-deprecated_finders (~> 1.0.2) ruby
+  thor (< 2.0, >= 0.14) ruby
+  i18n (>= 0.6.4, ~> 0.6) ruby
+  tzinfo (~> 0.3.37) ruby
+  builder (~> 3.1.0) ruby
+  mime-types (~> 1.16) ruby
+  activemodel (= 4.0.1) ruby
+  sdoc (= 0.3.20) ruby
+  thread_safe (~> 0.1) ruby
+  coffee-script (>= 2.2.0) ruby
+  minitest (~> 4.2) ruby
+  sass (>= 3.1.10) ruby
+  treetop (~> 1.4.8) ruby
+  xpath (~> 2.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  thor (< 2.0, >= 0.18.1) ruby
+  rake (>= 0.8.7) ruby
+  mime-types (>= 1.16) ruby
+  rack-test (~> 0.6.2) ruby
+  rspec-core (~> 2.13.0) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+Attempting:
+  rails_serve_static_assets (>= 0) ruby
+  Activating: rails_serve_static_assets (0.0.1)
+    * rails_12factor (= 0.0.2)
+    * rails_serve_static_assets (>= 0)
+    Dependencies
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+  rails_serve_static_assets (0.0.1)
+Requirements:
+  execjs (>= 0.3.0) ruby
+  bundler (< 2.0, >= 1.3.0) ruby
+  rack-test (>= 0.5.4) ruby
+  arel (~> 4.0.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  activerecord-deprecated_finders (~> 1.0.2) ruby
+  thor (< 2.0, >= 0.14) ruby
+  i18n (>= 0.6.4, ~> 0.6) ruby
+  tzinfo (~> 0.3.37) ruby
+  builder (~> 3.1.0) ruby
+  mime-types (~> 1.16) ruby
+  activemodel (= 4.0.1) ruby
+  sdoc (= 0.3.20) ruby
+  thread_safe (~> 0.1) ruby
+  coffee-script (>= 2.2.0) ruby
+  minitest (~> 4.2) ruby
+  rack-test (~> 0.6.2) ruby
+  treetop (~> 1.4.8) ruby
+  xpath (~> 2.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  thor (< 2.0, >= 0.18.1) ruby
+  rake (>= 0.8.7) ruby
+  mime-types (>= 1.16) ruby
+  sass (>= 3.1.10) ruby
+  rspec-core (~> 2.13.0) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+Attempting:
+  execjs (>= 0.3.0) ruby
+  Activating: execjs (2.0.2)
+    * uglifier (= 2.1.1)
+    * execjs (>= 0.3.0)
+    Dependencies
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+  rails_serve_static_assets (0.0.1)
+  execjs (2.0.2)
+Requirements:
+  bundler (< 2.0, >= 1.3.0) ruby
+  rack-test (>= 0.5.4) ruby
+  arel (~> 4.0.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  activerecord-deprecated_finders (~> 1.0.2) ruby
+  thor (< 2.0, >= 0.14) ruby
+  i18n (>= 0.6.4, ~> 0.6) ruby
+  tzinfo (~> 0.3.37) ruby
+  builder (~> 3.1.0) ruby
+  mime-types (~> 1.16) ruby
+  activemodel (= 4.0.1) ruby
+  sdoc (= 0.3.20) ruby
+  thread_safe (~> 0.1) ruby
+  coffee-script (>= 2.2.0) ruby
+  minitest (~> 4.2) ruby
+  sass (>= 3.1.10) ruby
+  treetop (~> 1.4.8) ruby
+  xpath (~> 2.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  thor (< 2.0, >= 0.18.1) ruby
+  rake (>= 0.8.7) ruby
+  mime-types (>= 1.16) ruby
+  rack-test (~> 0.6.2) ruby
+  rspec-core (~> 2.13.0) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+Attempting:
+  bundler (< 2.0, >= 1.3.0) ruby
+    * [SUCCESS] Already activated
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+  rails_serve_static_assets (0.0.1)
+  execjs (2.0.2)
+  bundler (1.3.5)
+Requirements:
+  rack-test (>= 0.5.4) ruby
+  arel (~> 4.0.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  activerecord-deprecated_finders (~> 1.0.2) ruby
+  thor (< 2.0, >= 0.14) ruby
+  i18n (>= 0.6.4, ~> 0.6) ruby
+  tzinfo (~> 0.3.37) ruby
+  builder (~> 3.1.0) ruby
+  mime-types (~> 1.16) ruby
+  activemodel (= 4.0.1) ruby
+  sdoc (= 0.3.20) ruby
+  thread_safe (~> 0.1) ruby
+  coffee-script (>= 2.2.0) ruby
+  minitest (~> 4.2) ruby
+  sass (>= 3.1.10) ruby
+  rack-test (~> 0.6.2) ruby
+  xpath (~> 2.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  thor (< 2.0, >= 0.18.1) ruby
+  rake (>= 0.8.7) ruby
+  mime-types (>= 1.16) ruby
+  treetop (~> 1.4.8) ruby
+  rspec-core (~> 2.13.0) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+Attempting:
+  rack-test (>= 0.5.4) ruby
+  Activating: rack-test (0.6.2)
+    * capybara (= 2.1.0)
+    * rack-test (>= 0.5.4)
+    Dependencies
+    * rack (>= 1.0)
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+  rails_serve_static_assets (0.0.1)
+  execjs (2.0.2)
+  bundler (1.3.5)
+  rack-test (0.6.2)
+Requirements:
+  rack (>= 1.0) ruby
+  rack-test (~> 0.6.2) ruby
+  xpath (~> 2.0) ruby
+  thor (< 2.0, >= 0.14) ruby
+  i18n (>= 0.6.4, ~> 0.6) ruby
+  tzinfo (~> 0.3.37) ruby
+  builder (~> 3.1.0) ruby
+  mime-types (~> 1.16) ruby
+  activemodel (= 4.0.1) ruby
+  sdoc (= 0.3.20) ruby
+  thread_safe (~> 0.1) ruby
+  coffee-script (>= 2.2.0) ruby
+  minitest (~> 4.2) ruby
+  sass (>= 3.1.10) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  activerecord-deprecated_finders (~> 1.0.2) ruby
+  arel (~> 4.0.0) ruby
+  thor (< 2.0, >= 0.18.1) ruby
+  rake (>= 0.8.7) ruby
+  mime-types (>= 1.16) ruby
+  treetop (~> 1.4.8) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+Attempting:
+  rack (>= 1.0) ruby
+    * [SUCCESS] Already activated
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+  rails_serve_static_assets (0.0.1)
+  execjs (2.0.2)
+  bundler (1.3.5)
+  rack-test (0.6.2)
+Requirements:
+  rack-test (~> 0.6.2) ruby
+  xpath (~> 2.0) ruby
+  thor (< 2.0, >= 0.14) ruby
+  i18n (>= 0.6.4, ~> 0.6) ruby
+  tzinfo (~> 0.3.37) ruby
+  builder (~> 3.1.0) ruby
+  mime-types (~> 1.16) ruby
+  activemodel (= 4.0.1) ruby
+  sdoc (= 0.3.20) ruby
+  thread_safe (~> 0.1) ruby
+  coffee-script (>= 2.2.0) ruby
+  minitest (~> 4.2) ruby
+  sass (>= 3.1.10) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  arel (~> 4.0.0) ruby
+  thor (< 2.0, >= 0.18.1) ruby
+  rake (>= 0.8.7) ruby
+  mime-types (>= 1.16) ruby
+  treetop (~> 1.4.8) ruby
+  activerecord-deprecated_finders (~> 1.0.2) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+Attempting:
+  rack-test (~> 0.6.2) ruby
+    * [SUCCESS] Already activated
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+  rails_serve_static_assets (0.0.1)
+  execjs (2.0.2)
+  bundler (1.3.5)
+  rack-test (0.6.2)
+Requirements:
+  xpath (~> 2.0) ruby
+  thor (< 2.0, >= 0.14) ruby
+  i18n (>= 0.6.4, ~> 0.6) ruby
+  tzinfo (~> 0.3.37) ruby
+  builder (~> 3.1.0) ruby
+  mime-types (~> 1.16) ruby
+  activemodel (= 4.0.1) ruby
+  sdoc (= 0.3.20) ruby
+  thread_safe (~> 0.1) ruby
+  coffee-script (>= 2.2.0) ruby
+  minitest (~> 4.2) ruby
+  sass (>= 3.1.10) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  activerecord-deprecated_finders (~> 1.0.2) ruby
+  thor (< 2.0, >= 0.18.1) ruby
+  rake (>= 0.8.7) ruby
+  mime-types (>= 1.16) ruby
+  treetop (~> 1.4.8) ruby
+  arel (~> 4.0.0) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+Attempting:
+  xpath (~> 2.0) ruby
+  Activating: xpath (2.0.0)
+    * capybara (= 2.1.0)
+    * xpath (~> 2.0)
+    Dependencies
+    * nokogiri (~> 1.3)
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+  rails_serve_static_assets (0.0.1)
+  execjs (2.0.2)
+  bundler (1.3.5)
+  rack-test (0.6.2)
+  xpath (2.0.0)
+Requirements:
+  thor (< 2.0, >= 0.14) ruby
+  i18n (>= 0.6.4, ~> 0.6) ruby
+  tzinfo (~> 0.3.37) ruby
+  builder (~> 3.1.0) ruby
+  mime-types (~> 1.16) ruby
+  activemodel (= 4.0.1) ruby
+  sdoc (= 0.3.20) ruby
+  thread_safe (~> 0.1) ruby
+  coffee-script (>= 2.2.0) ruby
+  minitest (~> 4.2) ruby
+  sass (>= 3.1.10) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  activerecord-deprecated_finders (~> 1.0.2) ruby
+  arel (~> 4.0.0) ruby
+  rake (>= 0.8.7) ruby
+  mime-types (>= 1.16) ruby
+  treetop (~> 1.4.8) ruby
+  thor (< 2.0, >= 0.18.1) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+  nokogiri (~> 1.3) ruby
+Attempting:
+  thor (< 2.0, >= 0.14) ruby
+  Activating: thor (0.18.1)
+    * jquery-rails (= 3.0.4)
+    * thor (< 2.0, >= 0.14)
+    Dependencies
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+  rails_serve_static_assets (0.0.1)
+  execjs (2.0.2)
+  bundler (1.3.5)
+  rack-test (0.6.2)
+  xpath (2.0.0)
+  thor (0.18.1)
+Requirements:
+  thor (< 2.0, >= 0.18.1) ruby
+  minitest (~> 4.2) ruby
+  builder (~> 3.1.0) ruby
+  mime-types (~> 1.16) ruby
+  activemodel (= 4.0.1) ruby
+  sdoc (= 0.3.20) ruby
+  thread_safe (~> 0.1) ruby
+  coffee-script (>= 2.2.0) ruby
+  tzinfo (~> 0.3.37) ruby
+  sass (>= 3.1.10) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  activerecord-deprecated_finders (~> 1.0.2) ruby
+  i18n (>= 0.6.4, ~> 0.6) ruby
+  rake (>= 0.8.7) ruby
+  mime-types (>= 1.16) ruby
+  treetop (~> 1.4.8) ruby
+  arel (~> 4.0.0) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+  nokogiri (~> 1.3) ruby
+Attempting:
+  thor (< 2.0, >= 0.18.1) ruby
+    * [SUCCESS] Already activated
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+  rails_serve_static_assets (0.0.1)
+  execjs (2.0.2)
+  bundler (1.3.5)
+  rack-test (0.6.2)
+  xpath (2.0.0)
+  thor (0.18.1)
+Requirements:
+  minitest (~> 4.2) ruby
+  builder (~> 3.1.0) ruby
+  mime-types (~> 1.16) ruby
+  activemodel (= 4.0.1) ruby
+  sdoc (= 0.3.20) ruby
+  thread_safe (~> 0.1) ruby
+  coffee-script (>= 2.2.0) ruby
+  tzinfo (~> 0.3.37) ruby
+  sass (>= 3.1.10) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  activerecord-deprecated_finders (~> 1.0.2) ruby
+  i18n (>= 0.6.4, ~> 0.6) ruby
+  arel (~> 4.0.0) ruby
+  mime-types (>= 1.16) ruby
+  treetop (~> 1.4.8) ruby
+  rake (>= 0.8.7) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+  nokogiri (~> 1.3) ruby
+Attempting:
+  minitest (~> 4.2) ruby
+  Activating: minitest (4.7.5)
+    * rails (= 4.0.1)
+    * activesupport (= 4.0.1)
+    * minitest (~> 4.2)
+    Dependencies
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+  rails_serve_static_assets (0.0.1)
+  execjs (2.0.2)
+  bundler (1.3.5)
+  rack-test (0.6.2)
+  xpath (2.0.0)
+  thor (0.18.1)
+  minitest (4.7.5)
+Requirements:
+  builder (~> 3.1.0) ruby
+  mime-types (~> 1.16) ruby
+  activemodel (= 4.0.1) ruby
+  sdoc (= 0.3.20) ruby
+  thread_safe (~> 0.1) ruby
+  coffee-script (>= 2.2.0) ruby
+  tzinfo (~> 0.3.37) ruby
+  sass (>= 3.1.10) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  activerecord-deprecated_finders (~> 1.0.2) ruby
+  i18n (>= 0.6.4, ~> 0.6) ruby
+  rake (>= 0.8.7) ruby
+  mime-types (>= 1.16) ruby
+  treetop (~> 1.4.8) ruby
+  arel (~> 4.0.0) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+  nokogiri (~> 1.3) ruby
+Attempting:
+  builder (~> 3.1.0) ruby
+  Activating: builder (3.1.4)
+    * rails (= 4.0.1)
+    * actionmailer (= 4.0.1)
+    * actionpack (= 4.0.1)
+    * builder (~> 3.1.0)
+    Dependencies
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+  rails_serve_static_assets (0.0.1)
+  execjs (2.0.2)
+  bundler (1.3.5)
+  rack-test (0.6.2)
+  xpath (2.0.0)
+  thor (0.18.1)
+  minitest (4.7.5)
+  builder (3.1.4)
+Requirements:
+  mime-types (~> 1.16) ruby
+  activemodel (= 4.0.1) ruby
+  sdoc (= 0.3.20) ruby
+  thread_safe (~> 0.1) ruby
+  coffee-script (>= 2.2.0) ruby
+  tzinfo (~> 0.3.37) ruby
+  sass (>= 3.1.10) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  activerecord-deprecated_finders (~> 1.0.2) ruby
+  i18n (>= 0.6.4, ~> 0.6) ruby
+  rake (>= 0.8.7) ruby
+  arel (~> 4.0.0) ruby
+  treetop (~> 1.4.8) ruby
+  mime-types (>= 1.16) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+  nokogiri (~> 1.3) ruby
+Attempting:
+  mime-types (~> 1.16) ruby
+  Activating: mime-types (1.25)
+    * rails (= 4.0.1)
+    * actionmailer (= 4.0.1)
+    * mail (~> 2.5.4)
+    * mime-types (~> 1.16)
+    Dependencies
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+  rails_serve_static_assets (0.0.1)
+  execjs (2.0.2)
+  bundler (1.3.5)
+  rack-test (0.6.2)
+  xpath (2.0.0)
+  thor (0.18.1)
+  minitest (4.7.5)
+  builder (3.1.4)
+  mime-types (1.25)
+Requirements:
+  mime-types (>= 1.16) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  thread_safe (~> 0.1) ruby
+  coffee-script (>= 2.2.0) ruby
+  tzinfo (~> 0.3.37) ruby
+  sass (>= 3.1.10) ruby
+  sdoc (= 0.3.20) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  activerecord-deprecated_finders (~> 1.0.2) ruby
+  i18n (>= 0.6.4, ~> 0.6) ruby
+  rake (>= 0.8.7) ruby
+  activemodel (= 4.0.1) ruby
+  treetop (~> 1.4.8) ruby
+  arel (~> 4.0.0) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+  nokogiri (~> 1.3) ruby
+Attempting:
+  mime-types (>= 1.16) ruby
+    * [SUCCESS] Already activated
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+  rails_serve_static_assets (0.0.1)
+  execjs (2.0.2)
+  bundler (1.3.5)
+  rack-test (0.6.2)
+  xpath (2.0.0)
+  thor (0.18.1)
+  minitest (4.7.5)
+  builder (3.1.4)
+  mime-types (1.25)
+Requirements:
+  sprockets-rails (~> 2.0.0) ruby
+  thread_safe (~> 0.1) ruby
+  coffee-script (>= 2.2.0) ruby
+  tzinfo (~> 0.3.37) ruby
+  sass (>= 3.1.10) ruby
+  sdoc (= 0.3.20) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  activerecord-deprecated_finders (~> 1.0.2) ruby
+  i18n (>= 0.6.4, ~> 0.6) ruby
+  rake (>= 0.8.7) ruby
+  activemodel (= 4.0.1) ruby
+  arel (~> 4.0.0) ruby
+  treetop (~> 1.4.8) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+  nokogiri (~> 1.3) ruby
+Attempting:
+  sprockets-rails (~> 2.0.0) ruby
+  Activating: sprockets-rails (2.0.1)
+    * rails (= 4.0.1)
+    * sprockets-rails (~> 2.0.0)
+    Dependencies
+    * actionpack (>= 3.0)
+    * activesupport (>= 3.0)
+    * sprockets (~> 2.8)
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+  rails_serve_static_assets (0.0.1)
+  execjs (2.0.2)
+  bundler (1.3.5)
+  rack-test (0.6.2)
+  xpath (2.0.0)
+  thor (0.18.1)
+  minitest (4.7.5)
+  builder (3.1.4)
+  mime-types (1.25)
+  sprockets-rails (2.0.1)
+Requirements:
+  activesupport (>= 3.0) ruby
+  actionpack (>= 3.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  i18n (>= 0.6.4, ~> 0.6) ruby
+  sdoc (= 0.3.20) ruby
+  tzinfo (~> 0.3.37) ruby
+  activerecord-deprecated_finders (~> 1.0.2) ruby
+  sass (>= 3.1.10) ruby
+  rake (>= 0.8.7) ruby
+  activemodel (= 4.0.1) ruby
+  arel (~> 4.0.0) ruby
+  treetop (~> 1.4.8) ruby
+  coffee-script (>= 2.2.0) ruby
+  thread_safe (~> 0.1) ruby
+  sprockets (~> 2.8) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+  nokogiri (~> 1.3) ruby
+Attempting:
+  activesupport (>= 3.0) ruby
+    * [SUCCESS] Already activated
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+  rails_serve_static_assets (0.0.1)
+  execjs (2.0.2)
+  bundler (1.3.5)
+  rack-test (0.6.2)
+  xpath (2.0.0)
+  thor (0.18.1)
+  minitest (4.7.5)
+  builder (3.1.4)
+  mime-types (1.25)
+  sprockets-rails (2.0.1)
+Requirements:
+  actionpack (>= 3.0) ruby
+  sprockets-rails (~> 2.0.0) ruby
+  sass (>= 3.1.10) ruby
+  sdoc (= 0.3.20) ruby
+  tzinfo (~> 0.3.37) ruby
+  activerecord-deprecated_finders (~> 1.0.2) ruby
+  i18n (>= 0.6.4, ~> 0.6) ruby
+  rake (>= 0.8.7) ruby
+  activemodel (= 4.0.1) ruby
+  arel (~> 4.0.0) ruby
+  treetop (~> 1.4.8) ruby
+  sprockets (~> 2.8) ruby
+  thread_safe (~> 0.1) ruby
+  coffee-script (>= 2.2.0) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+  nokogiri (~> 1.3) ruby
+Attempting:
+  actionpack (>= 3.0) ruby
+    * [SUCCESS] Already activated
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+  rails_serve_static_assets (0.0.1)
+  execjs (2.0.2)
+  bundler (1.3.5)
+  rack-test (0.6.2)
+  xpath (2.0.0)
+  thor (0.18.1)
+  minitest (4.7.5)
+  builder (3.1.4)
+  mime-types (1.25)
+  sprockets-rails (2.0.1)
+Requirements:
+  sprockets-rails (~> 2.0.0) ruby
+  sass (>= 3.1.10) ruby
+  sdoc (= 0.3.20) ruby
+  tzinfo (~> 0.3.37) ruby
+  activerecord-deprecated_finders (~> 1.0.2) ruby
+  i18n (>= 0.6.4, ~> 0.6) ruby
+  rake (>= 0.8.7) ruby
+  activemodel (= 4.0.1) ruby
+  arel (~> 4.0.0) ruby
+  treetop (~> 1.4.8) ruby
+  sprockets (~> 2.8) ruby
+  coffee-script (>= 2.2.0) ruby
+  thread_safe (~> 0.1) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+  nokogiri (~> 1.3) ruby
+Attempting:
+  sprockets-rails (~> 2.0.0) ruby
+    * [SUCCESS] Already activated
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+  rails_serve_static_assets (0.0.1)
+  execjs (2.0.2)
+  bundler (1.3.5)
+  rack-test (0.6.2)
+  xpath (2.0.0)
+  thor (0.18.1)
+  minitest (4.7.5)
+  builder (3.1.4)
+  mime-types (1.25)
+  sprockets-rails (2.0.1)
+Requirements:
+  sass (>= 3.1.10) ruby
+  sdoc (= 0.3.20) ruby
+  tzinfo (~> 0.3.37) ruby
+  activerecord-deprecated_finders (~> 1.0.2) ruby
+  i18n (>= 0.6.4, ~> 0.6) ruby
+  rake (>= 0.8.7) ruby
+  activemodel (= 4.0.1) ruby
+  arel (~> 4.0.0) ruby
+  treetop (~> 1.4.8) ruby
+  sprockets (~> 2.8) ruby
+  thread_safe (~> 0.1) ruby
+  coffee-script (>= 2.2.0) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+  nokogiri (~> 1.3) ruby
+Attempting:
+  sass (>= 3.1.10) ruby
+  Activating: sass (3.2.12)
+    * sass-rails (= 4.0.1)
+    * sass (>= 3.1.10)
+    Dependencies
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+  rails_serve_static_assets (0.0.1)
+  execjs (2.0.2)
+  bundler (1.3.5)
+  rack-test (0.6.2)
+  xpath (2.0.0)
+  thor (0.18.1)
+  minitest (4.7.5)
+  builder (3.1.4)
+  mime-types (1.25)
+  sprockets-rails (2.0.1)
+  sass (3.2.12)
+Requirements:
+  sdoc (= 0.3.20) ruby
+  tzinfo (~> 0.3.37) ruby
+  activerecord-deprecated_finders (~> 1.0.2) ruby
+  i18n (>= 0.6.4, ~> 0.6) ruby
+  rake (>= 0.8.7) ruby
+  activemodel (= 4.0.1) ruby
+  arel (~> 4.0.0) ruby
+  treetop (~> 1.4.8) ruby
+  sprockets (~> 2.8) ruby
+  thread_safe (~> 0.1) ruby
+  coffee-script (>= 2.2.0) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+  nokogiri (~> 1.3) ruby
+Attempting:
+  sdoc (= 0.3.20) ruby
+  Activating: sdoc (0.3.20)
+    * sdoc (= 0.3.20)
+    Dependencies
+    * json (>= 1.1.3)
+    * rdoc (~> 3.10)
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+  rails_serve_static_assets (0.0.1)
+  execjs (2.0.2)
+  bundler (1.3.5)
+  rack-test (0.6.2)
+  xpath (2.0.0)
+  thor (0.18.1)
+  minitest (4.7.5)
+  builder (3.1.4)
+  mime-types (1.25)
+  sprockets-rails (2.0.1)
+  sass (3.2.12)
+  sdoc (0.3.20)
+Requirements:
+  tzinfo (~> 0.3.37) ruby
+  activerecord-deprecated_finders (~> 1.0.2) ruby
+  i18n (>= 0.6.4, ~> 0.6) ruby
+  rake (>= 0.8.7) ruby
+  activemodel (= 4.0.1) ruby
+  arel (~> 4.0.0) ruby
+  treetop (~> 1.4.8) ruby
+  sprockets (~> 2.8) ruby
+  thread_safe (~> 0.1) ruby
+  coffee-script (>= 2.2.0) ruby
+  json (>= 1.1.3) ruby
+  rdoc (~> 3.10) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+  nokogiri (~> 1.3) ruby
+Attempting:
+  tzinfo (~> 0.3.37) ruby
+  Activating: tzinfo (0.3.38)
+    * rails (= 4.0.1)
+    * activesupport (= 4.0.1)
+    * tzinfo (~> 0.3.37)
+    Dependencies
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+  rails_serve_static_assets (0.0.1)
+  execjs (2.0.2)
+  bundler (1.3.5)
+  rack-test (0.6.2)
+  xpath (2.0.0)
+  thor (0.18.1)
+  minitest (4.7.5)
+  builder (3.1.4)
+  mime-types (1.25)
+  sprockets-rails (2.0.1)
+  sass (3.2.12)
+  sdoc (0.3.20)
+  tzinfo (0.3.38)
+Requirements:
+  activerecord-deprecated_finders (~> 1.0.2) ruby
+  i18n (>= 0.6.4, ~> 0.6) ruby
+  rake (>= 0.8.7) ruby
+  activemodel (= 4.0.1) ruby
+  arel (~> 4.0.0) ruby
+  treetop (~> 1.4.8) ruby
+  sprockets (~> 2.8) ruby
+  thread_safe (~> 0.1) ruby
+  coffee-script (>= 2.2.0) ruby
+  json (>= 1.1.3) ruby
+  rdoc (~> 3.10) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+  nokogiri (~> 1.3) ruby
+Attempting:
+  activerecord-deprecated_finders (~> 1.0.2) ruby
+  Activating: activerecord-deprecated_finders (1.0.3)
+    * rails (= 4.0.1)
+    * activerecord (= 4.0.1)
+    * activerecord-deprecated_finders (~> 1.0.2)
+    Dependencies
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+  rails_serve_static_assets (0.0.1)
+  execjs (2.0.2)
+  bundler (1.3.5)
+  rack-test (0.6.2)
+  xpath (2.0.0)
+  thor (0.18.1)
+  minitest (4.7.5)
+  builder (3.1.4)
+  mime-types (1.25)
+  sprockets-rails (2.0.1)
+  sass (3.2.12)
+  sdoc (0.3.20)
+  tzinfo (0.3.38)
+  activerecord-deprecated_finders (1.0.3)
+Requirements:
+  i18n (>= 0.6.4, ~> 0.6) ruby
+  rake (>= 0.8.7) ruby
+  activemodel (= 4.0.1) ruby
+  arel (~> 4.0.0) ruby
+  treetop (~> 1.4.8) ruby
+  sprockets (~> 2.8) ruby
+  thread_safe (~> 0.1) ruby
+  coffee-script (>= 2.2.0) ruby
+  json (>= 1.1.3) ruby
+  rdoc (~> 3.10) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+  nokogiri (~> 1.3) ruby
+Attempting:
+  i18n (>= 0.6.4, ~> 0.6) ruby
+  Activating: i18n (0.6.5)
+    * rails (= 4.0.1)
+    * activesupport (= 4.0.1)
+    * i18n (>= 0.6.4, ~> 0.6)
+    Dependencies
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+  rails_serve_static_assets (0.0.1)
+  execjs (2.0.2)
+  bundler (1.3.5)
+  rack-test (0.6.2)
+  xpath (2.0.0)
+  thor (0.18.1)
+  minitest (4.7.5)
+  builder (3.1.4)
+  mime-types (1.25)
+  sprockets-rails (2.0.1)
+  sass (3.2.12)
+  sdoc (0.3.20)
+  tzinfo (0.3.38)
+  activerecord-deprecated_finders (1.0.3)
+  i18n (0.6.5)
+Requirements:
+  rake (>= 0.8.7) ruby
+  activemodel (= 4.0.1) ruby
+  arel (~> 4.0.0) ruby
+  treetop (~> 1.4.8) ruby
+  sprockets (~> 2.8) ruby
+  rdoc (~> 3.10) ruby
+  coffee-script (>= 2.2.0) ruby
+  json (>= 1.1.3) ruby
+  thread_safe (~> 0.1) ruby
+  rspec-core (~> 2.13.0) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+  nokogiri (~> 1.3) ruby
+Attempting:
+  rake (>= 0.8.7) ruby
+  Activating: rake (10.1.0)
+    * rails (= 4.0.1)
+    * railties (= 4.0.1)
+    * rake (>= 0.8.7)
+    Dependencies
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+  rails_serve_static_assets (0.0.1)
+  execjs (2.0.2)
+  bundler (1.3.5)
+  rack-test (0.6.2)
+  xpath (2.0.0)
+  thor (0.18.1)
+  minitest (4.7.5)
+  builder (3.1.4)
+  mime-types (1.25)
+  sprockets-rails (2.0.1)
+  sass (3.2.12)
+  sdoc (0.3.20)
+  tzinfo (0.3.38)
+  activerecord-deprecated_finders (1.0.3)
+  i18n (0.6.5)
+  rake (10.1.0)
+Requirements:
+  activemodel (= 4.0.1) ruby
+  arel (~> 4.0.0) ruby
+  treetop (~> 1.4.8) ruby
+  sprockets (~> 2.8) ruby
+  thread_safe (~> 0.1) ruby
+  coffee-script (>= 2.2.0) ruby
+  json (>= 1.1.3) ruby
+  rdoc (~> 3.10) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+  nokogiri (~> 1.3) ruby
+Attempting:
+  activemodel (= 4.0.1) ruby
+  Activating: activemodel (4.0.1)
+    * rails (= 4.0.1)
+    * activerecord (= 4.0.1)
+    * activemodel (= 4.0.1)
+    Dependencies
+    * activesupport (= 4.0.1)
+    * builder (~> 3.1.0)
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+  rails_serve_static_assets (0.0.1)
+  execjs (2.0.2)
+  bundler (1.3.5)
+  rack-test (0.6.2)
+  xpath (2.0.0)
+  thor (0.18.1)
+  minitest (4.7.5)
+  builder (3.1.4)
+  mime-types (1.25)
+  sprockets-rails (2.0.1)
+  sass (3.2.12)
+  sdoc (0.3.20)
+  tzinfo (0.3.38)
+  activerecord-deprecated_finders (1.0.3)
+  i18n (0.6.5)
+  rake (10.1.0)
+  activemodel (4.0.1)
+Requirements:
+  builder (~> 3.1.0) ruby
+  activesupport (= 4.0.1) ruby
+  sprockets (~> 2.8) ruby
+  thread_safe (~> 0.1) ruby
+  treetop (~> 1.4.8) ruby
+  json (>= 1.1.3) ruby
+  rdoc (~> 3.10) ruby
+  coffee-script (>= 2.2.0) ruby
+  arel (~> 4.0.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+  nokogiri (~> 1.3) ruby
+Attempting:
+  builder (~> 3.1.0) ruby
+    * [SUCCESS] Already activated
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+  rails_serve_static_assets (0.0.1)
+  execjs (2.0.2)
+  bundler (1.3.5)
+  rack-test (0.6.2)
+  xpath (2.0.0)
+  thor (0.18.1)
+  minitest (4.7.5)
+  builder (3.1.4)
+  mime-types (1.25)
+  sprockets-rails (2.0.1)
+  sass (3.2.12)
+  sdoc (0.3.20)
+  tzinfo (0.3.38)
+  activerecord-deprecated_finders (1.0.3)
+  i18n (0.6.5)
+  rake (10.1.0)
+  activemodel (4.0.1)
+Requirements:
+  activesupport (= 4.0.1) ruby
+  sprockets (~> 2.8) ruby
+  thread_safe (~> 0.1) ruby
+  treetop (~> 1.4.8) ruby
+  arel (~> 4.0.0) ruby
+  rdoc (~> 3.10) ruby
+  coffee-script (>= 2.2.0) ruby
+  json (>= 1.1.3) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+  nokogiri (~> 1.3) ruby
+Attempting:
+  activesupport (= 4.0.1) ruby
+    * [SUCCESS] Already activated
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+  rails_serve_static_assets (0.0.1)
+  execjs (2.0.2)
+  bundler (1.3.5)
+  rack-test (0.6.2)
+  xpath (2.0.0)
+  thor (0.18.1)
+  minitest (4.7.5)
+  builder (3.1.4)
+  mime-types (1.25)
+  sprockets-rails (2.0.1)
+  sass (3.2.12)
+  sdoc (0.3.20)
+  tzinfo (0.3.38)
+  activerecord-deprecated_finders (1.0.3)
+  i18n (0.6.5)
+  rake (10.1.0)
+  activemodel (4.0.1)
+Requirements:
+  sprockets (~> 2.8) ruby
+  thread_safe (~> 0.1) ruby
+  treetop (~> 1.4.8) ruby
+  arel (~> 4.0.0) ruby
+  json (>= 1.1.3) ruby
+  coffee-script (>= 2.2.0) ruby
+  rdoc (~> 3.10) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+  nokogiri (~> 1.3) ruby
+Attempting:
+  sprockets (~> 2.8) ruby
+  Activating: sprockets (2.10.0)
+    * rails (= 4.0.1)
+    * sprockets-rails (~> 2.0.0)
+    * sprockets (~> 2.8)
+    Dependencies
+    * hike (~> 1.2)
+    * multi_json (~> 1.0)
+    * rack (~> 1.0)
+    * tilt (!= 1.3.0, ~> 1.1)
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+  rails_serve_static_assets (0.0.1)
+  execjs (2.0.2)
+  bundler (1.3.5)
+  rack-test (0.6.2)
+  xpath (2.0.0)
+  thor (0.18.1)
+  minitest (4.7.5)
+  builder (3.1.4)
+  mime-types (1.25)
+  sprockets-rails (2.0.1)
+  sass (3.2.12)
+  sdoc (0.3.20)
+  tzinfo (0.3.38)
+  activerecord-deprecated_finders (1.0.3)
+  i18n (0.6.5)
+  rake (10.1.0)
+  activemodel (4.0.1)
+  sprockets (2.10.0)
+Requirements:
+  rack (~> 1.0) ruby
+  multi_json (~> 1.0) ruby
+  coffee-script (>= 2.2.0) ruby
+  json (>= 1.1.3) ruby
+  arel (~> 4.0.0) ruby
+  rdoc (~> 3.10) ruby
+  thread_safe (~> 0.1) ruby
+  treetop (~> 1.4.8) ruby
+  hike (~> 1.2) ruby
+  tilt (!= 1.3.0, ~> 1.1) ruby
+  rspec-core (~> 2.13.0) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+  nokogiri (~> 1.3) ruby
+Attempting:
+  rack (~> 1.0) ruby
+    * [SUCCESS] Already activated
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+  rails_serve_static_assets (0.0.1)
+  execjs (2.0.2)
+  bundler (1.3.5)
+  rack-test (0.6.2)
+  xpath (2.0.0)
+  thor (0.18.1)
+  minitest (4.7.5)
+  builder (3.1.4)
+  mime-types (1.25)
+  sprockets-rails (2.0.1)
+  sass (3.2.12)
+  sdoc (0.3.20)
+  tzinfo (0.3.38)
+  activerecord-deprecated_finders (1.0.3)
+  i18n (0.6.5)
+  rake (10.1.0)
+  activemodel (4.0.1)
+  sprockets (2.10.0)
+Requirements:
+  multi_json (~> 1.0) ruby
+  coffee-script (>= 2.2.0) ruby
+  json (>= 1.1.3) ruby
+  arel (~> 4.0.0) ruby
+  rdoc (~> 3.10) ruby
+  tilt (!= 1.3.0, ~> 1.1) ruby
+  treetop (~> 1.4.8) ruby
+  hike (~> 1.2) ruby
+  thread_safe (~> 0.1) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+  nokogiri (~> 1.3) ruby
+Attempting:
+  multi_json (~> 1.0) ruby
+    * [SUCCESS] Already activated
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+  rails_serve_static_assets (0.0.1)
+  execjs (2.0.2)
+  bundler (1.3.5)
+  rack-test (0.6.2)
+  xpath (2.0.0)
+  thor (0.18.1)
+  minitest (4.7.5)
+  builder (3.1.4)
+  mime-types (1.25)
+  sprockets-rails (2.0.1)
+  sass (3.2.12)
+  sdoc (0.3.20)
+  tzinfo (0.3.38)
+  activerecord-deprecated_finders (1.0.3)
+  i18n (0.6.5)
+  rake (10.1.0)
+  activemodel (4.0.1)
+  sprockets (2.10.0)
+Requirements:
+  coffee-script (>= 2.2.0) ruby
+  json (>= 1.1.3) ruby
+  arel (~> 4.0.0) ruby
+  rdoc (~> 3.10) ruby
+  thread_safe (~> 0.1) ruby
+  treetop (~> 1.4.8) ruby
+  hike (~> 1.2) ruby
+  tilt (!= 1.3.0, ~> 1.1) ruby
+  rspec-core (~> 2.13.0) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+  nokogiri (~> 1.3) ruby
+Attempting:
+  coffee-script (>= 2.2.0) ruby
+  Activating: coffee-script (2.2.0)
+    * coffee-rails (= 4.0.1)
+    * coffee-script (>= 2.2.0)
+    Dependencies
+    * coffee-script-source (>= 0)
+    * execjs (>= 0)
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+  rails_serve_static_assets (0.0.1)
+  execjs (2.0.2)
+  bundler (1.3.5)
+  rack-test (0.6.2)
+  xpath (2.0.0)
+  thor (0.18.1)
+  minitest (4.7.5)
+  builder (3.1.4)
+  mime-types (1.25)
+  sprockets-rails (2.0.1)
+  sass (3.2.12)
+  sdoc (0.3.20)
+  tzinfo (0.3.38)
+  activerecord-deprecated_finders (1.0.3)
+  i18n (0.6.5)
+  rake (10.1.0)
+  activemodel (4.0.1)
+  sprockets (2.10.0)
+  coffee-script (2.2.0)
+Requirements:
+  execjs (>= 0) ruby
+  arel (~> 4.0.0) ruby
+  rdoc (~> 3.10) ruby
+  thread_safe (~> 0.1) ruby
+  treetop (~> 1.4.8) ruby
+  hike (~> 1.2) ruby
+  tilt (!= 1.3.0, ~> 1.1) ruby
+  coffee-script-source (>= 0) ruby
+  json (>= 1.1.3) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+  nokogiri (~> 1.3) ruby
+Attempting:
+  execjs (>= 0) ruby
+    * [SUCCESS] Already activated
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+  rails_serve_static_assets (0.0.1)
+  execjs (2.0.2)
+  bundler (1.3.5)
+  rack-test (0.6.2)
+  xpath (2.0.0)
+  thor (0.18.1)
+  minitest (4.7.5)
+  builder (3.1.4)
+  mime-types (1.25)
+  sprockets-rails (2.0.1)
+  sass (3.2.12)
+  sdoc (0.3.20)
+  tzinfo (0.3.38)
+  activerecord-deprecated_finders (1.0.3)
+  i18n (0.6.5)
+  rake (10.1.0)
+  activemodel (4.0.1)
+  sprockets (2.10.0)
+  coffee-script (2.2.0)
+Requirements:
+  arel (~> 4.0.0) ruby
+  rdoc (~> 3.10) ruby
+  thread_safe (~> 0.1) ruby
+  treetop (~> 1.4.8) ruby
+  json (>= 1.1.3) ruby
+  tilt (!= 1.3.0, ~> 1.1) ruby
+  coffee-script-source (>= 0) ruby
+  hike (~> 1.2) ruby
+  rspec-core (~> 2.13.0) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+  nokogiri (~> 1.3) ruby
+Attempting:
+  arel (~> 4.0.0) ruby
+  Activating: arel (4.0.1)
+    * rails (= 4.0.1)
+    * activerecord (= 4.0.1)
+    * arel (~> 4.0.0)
+    Dependencies
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+  rails_serve_static_assets (0.0.1)
+  execjs (2.0.2)
+  bundler (1.3.5)
+  rack-test (0.6.2)
+  xpath (2.0.0)
+  thor (0.18.1)
+  minitest (4.7.5)
+  builder (3.1.4)
+  mime-types (1.25)
+  sprockets-rails (2.0.1)
+  sass (3.2.12)
+  sdoc (0.3.20)
+  tzinfo (0.3.38)
+  activerecord-deprecated_finders (1.0.3)
+  i18n (0.6.5)
+  rake (10.1.0)
+  activemodel (4.0.1)
+  sprockets (2.10.0)
+  coffee-script (2.2.0)
+  arel (4.0.1)
+Requirements:
+  rdoc (~> 3.10) ruby
+  thread_safe (~> 0.1) ruby
+  treetop (~> 1.4.8) ruby
+  json (>= 1.1.3) ruby
+  hike (~> 1.2) ruby
+  coffee-script-source (>= 0) ruby
+  tilt (!= 1.3.0, ~> 1.1) ruby
+  rspec-core (~> 2.13.0) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+  nokogiri (~> 1.3) ruby
+Attempting:
+  rdoc (~> 3.10) ruby
+  Activating: rdoc (3.12.2)
+    * sdoc (= 0.3.20)
+    * rdoc (~> 3.10)
+    Dependencies
+    * json (~> 1.4)
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+  rails_serve_static_assets (0.0.1)
+  execjs (2.0.2)
+  bundler (1.3.5)
+  rack-test (0.6.2)
+  xpath (2.0.0)
+  thor (0.18.1)
+  minitest (4.7.5)
+  builder (3.1.4)
+  mime-types (1.25)
+  sprockets-rails (2.0.1)
+  sass (3.2.12)
+  sdoc (0.3.20)
+  tzinfo (0.3.38)
+  activerecord-deprecated_finders (1.0.3)
+  i18n (0.6.5)
+  rake (10.1.0)
+  activemodel (4.0.1)
+  sprockets (2.10.0)
+  coffee-script (2.2.0)
+  arel (4.0.1)
+  rdoc (3.12.2)
+Requirements:
+  thread_safe (~> 0.1) ruby
+  treetop (~> 1.4.8) ruby
+  json (>= 1.1.3) ruby
+  hike (~> 1.2) ruby
+  coffee-script-source (>= 0) ruby
+  tilt (!= 1.3.0, ~> 1.1) ruby
+  json (~> 1.4) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+  nokogiri (~> 1.3) ruby
+Attempting:
+  thread_safe (~> 0.1) ruby
+  Activating: thread_safe (0.1.3)
+    * rails (= 4.0.1)
+    * activesupport (= 4.0.1)
+    * thread_safe (~> 0.1)
+    Dependencies
+    * atomic (>= 0)
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+  rails_serve_static_assets (0.0.1)
+  execjs (2.0.2)
+  bundler (1.3.5)
+  rack-test (0.6.2)
+  xpath (2.0.0)
+  thor (0.18.1)
+  minitest (4.7.5)
+  builder (3.1.4)
+  mime-types (1.25)
+  sprockets-rails (2.0.1)
+  sass (3.2.12)
+  sdoc (0.3.20)
+  tzinfo (0.3.38)
+  activerecord-deprecated_finders (1.0.3)
+  i18n (0.6.5)
+  rake (10.1.0)
+  activemodel (4.0.1)
+  sprockets (2.10.0)
+  coffee-script (2.2.0)
+  arel (4.0.1)
+  rdoc (3.12.2)
+  thread_safe (0.1.3)
+Requirements:
+  treetop (~> 1.4.8) ruby
+  json (>= 1.1.3) ruby
+  hike (~> 1.2) ruby
+  coffee-script-source (>= 0) ruby
+  tilt (!= 1.3.0, ~> 1.1) ruby
+  json (~> 1.4) ruby
+  atomic (>= 0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+  nokogiri (~> 1.3) ruby
+Attempting:
+  treetop (~> 1.4.8) ruby
+  Activating: treetop (1.4.15)
+    * rails (= 4.0.1)
+    * actionmailer (= 4.0.1)
+    * mail (~> 2.5.4)
+    * treetop (~> 1.4.8)
+    Dependencies
+    * polyglot (>= 0)
+    * polyglot (>= 0.3.1)
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+  rails_serve_static_assets (0.0.1)
+  execjs (2.0.2)
+  bundler (1.3.5)
+  rack-test (0.6.2)
+  xpath (2.0.0)
+  thor (0.18.1)
+  minitest (4.7.5)
+  builder (3.1.4)
+  mime-types (1.25)
+  sprockets-rails (2.0.1)
+  sass (3.2.12)
+  sdoc (0.3.20)
+  tzinfo (0.3.38)
+  activerecord-deprecated_finders (1.0.3)
+  i18n (0.6.5)
+  rake (10.1.0)
+  activemodel (4.0.1)
+  sprockets (2.10.0)
+  coffee-script (2.2.0)
+  arel (4.0.1)
+  rdoc (3.12.2)
+  thread_safe (0.1.3)
+  treetop (1.4.15)
+Requirements:
+  json (>= 1.1.3) ruby
+  hike (~> 1.2) ruby
+  coffee-script-source (>= 0) ruby
+  tilt (!= 1.3.0, ~> 1.1) ruby
+  json (~> 1.4) ruby
+  atomic (>= 0) ruby
+  polyglot (>= 0) ruby
+  polyglot (>= 0.3.1) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+  nokogiri (~> 1.3) ruby
+Attempting:
+  json (>= 1.1.3) ruby
+  Activating: json (1.8.1)
+    * sdoc (= 0.3.20)
+    * json (>= 1.1.3)
+    Dependencies
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+  rails_serve_static_assets (0.0.1)
+  execjs (2.0.2)
+  bundler (1.3.5)
+  rack-test (0.6.2)
+  xpath (2.0.0)
+  thor (0.18.1)
+  minitest (4.7.5)
+  builder (3.1.4)
+  mime-types (1.25)
+  sprockets-rails (2.0.1)
+  sass (3.2.12)
+  sdoc (0.3.20)
+  tzinfo (0.3.38)
+  activerecord-deprecated_finders (1.0.3)
+  i18n (0.6.5)
+  rake (10.1.0)
+  activemodel (4.0.1)
+  sprockets (2.10.0)
+  coffee-script (2.2.0)
+  arel (4.0.1)
+  rdoc (3.12.2)
+  thread_safe (0.1.3)
+  treetop (1.4.15)
+  json (1.8.1)
+Requirements:
+  json (~> 1.4) ruby
+  hike (~> 1.2) ruby
+  tilt (!= 1.3.0, ~> 1.1) ruby
+  coffee-script-source (>= 0) ruby
+  polyglot (>= 0.3.1) ruby
+  polyglot (>= 0) ruby
+  atomic (>= 0) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+  nokogiri (~> 1.3) ruby
+Attempting:
+  json (~> 1.4) ruby
+    * [SUCCESS] Already activated
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+  rails_serve_static_assets (0.0.1)
+  execjs (2.0.2)
+  bundler (1.3.5)
+  rack-test (0.6.2)
+  xpath (2.0.0)
+  thor (0.18.1)
+  minitest (4.7.5)
+  builder (3.1.4)
+  mime-types (1.25)
+  sprockets-rails (2.0.1)
+  sass (3.2.12)
+  sdoc (0.3.20)
+  tzinfo (0.3.38)
+  activerecord-deprecated_finders (1.0.3)
+  i18n (0.6.5)
+  rake (10.1.0)
+  activemodel (4.0.1)
+  sprockets (2.10.0)
+  coffee-script (2.2.0)
+  arel (4.0.1)
+  rdoc (3.12.2)
+  thread_safe (0.1.3)
+  treetop (1.4.15)
+  json (1.8.1)
+Requirements:
+  hike (~> 1.2) ruby
+  tilt (!= 1.3.0, ~> 1.1) ruby
+  coffee-script-source (>= 0) ruby
+  atomic (>= 0) ruby
+  polyglot (>= 0) ruby
+  polyglot (>= 0.3.1) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+  nokogiri (~> 1.3) ruby
+Attempting:
+  hike (~> 1.2) ruby
+  Activating: hike (1.2.3)
+    * rails (= 4.0.1)
+    * sprockets-rails (~> 2.0.0)
+    * sprockets (~> 2.8)
+    * hike (~> 1.2)
+    Dependencies
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+  rails_serve_static_assets (0.0.1)
+  execjs (2.0.2)
+  bundler (1.3.5)
+  rack-test (0.6.2)
+  xpath (2.0.0)
+  thor (0.18.1)
+  minitest (4.7.5)
+  builder (3.1.4)
+  mime-types (1.25)
+  sprockets-rails (2.0.1)
+  sass (3.2.12)
+  sdoc (0.3.20)
+  tzinfo (0.3.38)
+  activerecord-deprecated_finders (1.0.3)
+  i18n (0.6.5)
+  rake (10.1.0)
+  activemodel (4.0.1)
+  sprockets (2.10.0)
+  coffee-script (2.2.0)
+  arel (4.0.1)
+  rdoc (3.12.2)
+  thread_safe (0.1.3)
+  treetop (1.4.15)
+  json (1.8.1)
+  hike (1.2.3)
+Requirements:
+  tilt (!= 1.3.0, ~> 1.1) ruby
+  coffee-script-source (>= 0) ruby
+  atomic (>= 0) ruby
+  polyglot (>= 0.3.1) ruby
+  polyglot (>= 0) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+  nokogiri (~> 1.3) ruby
+Attempting:
+  tilt (!= 1.3.0, ~> 1.1) ruby
+  Activating: tilt (1.4.1)
+    * rails (= 4.0.1)
+    * sprockets-rails (~> 2.0.0)
+    * sprockets (~> 2.8)
+    * tilt (!= 1.3.0, ~> 1.1)
+    Dependencies
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+  rails_serve_static_assets (0.0.1)
+  execjs (2.0.2)
+  bundler (1.3.5)
+  rack-test (0.6.2)
+  xpath (2.0.0)
+  thor (0.18.1)
+  minitest (4.7.5)
+  builder (3.1.4)
+  mime-types (1.25)
+  sprockets-rails (2.0.1)
+  sass (3.2.12)
+  sdoc (0.3.20)
+  tzinfo (0.3.38)
+  activerecord-deprecated_finders (1.0.3)
+  i18n (0.6.5)
+  rake (10.1.0)
+  activemodel (4.0.1)
+  sprockets (2.10.0)
+  coffee-script (2.2.0)
+  arel (4.0.1)
+  rdoc (3.12.2)
+  thread_safe (0.1.3)
+  treetop (1.4.15)
+  json (1.8.1)
+  hike (1.2.3)
+  tilt (1.4.1)
+Requirements:
+  coffee-script-source (>= 0) ruby
+  atomic (>= 0) ruby
+  polyglot (>= 0.3.1) ruby
+  polyglot (>= 0) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+  nokogiri (~> 1.3) ruby
+Attempting:
+  coffee-script-source (>= 0) ruby
+  Activating: coffee-script-source (1.6.3)
+    * coffee-rails (= 4.0.1)
+    * coffee-script (>= 2.2.0)
+    * coffee-script-source (>= 0)
+    Dependencies
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+  rails_serve_static_assets (0.0.1)
+  execjs (2.0.2)
+  bundler (1.3.5)
+  rack-test (0.6.2)
+  xpath (2.0.0)
+  thor (0.18.1)
+  minitest (4.7.5)
+  builder (3.1.4)
+  mime-types (1.25)
+  sprockets-rails (2.0.1)
+  sass (3.2.12)
+  sdoc (0.3.20)
+  tzinfo (0.3.38)
+  activerecord-deprecated_finders (1.0.3)
+  i18n (0.6.5)
+  rake (10.1.0)
+  activemodel (4.0.1)
+  sprockets (2.10.0)
+  coffee-script (2.2.0)
+  arel (4.0.1)
+  rdoc (3.12.2)
+  thread_safe (0.1.3)
+  treetop (1.4.15)
+  json (1.8.1)
+  hike (1.2.3)
+  tilt (1.4.1)
+  coffee-script-source (1.6.3)
+Requirements:
+  atomic (>= 0) ruby
+  polyglot (>= 0.3.1) ruby
+  polyglot (>= 0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+  nokogiri (~> 1.3) ruby
+Attempting:
+  atomic (>= 0) ruby
+  Activating: atomic (1.1.14)
+    * rails (= 4.0.1)
+    * activesupport (= 4.0.1)
+    * thread_safe (~> 0.1)
+    * atomic (>= 0)
+    Dependencies
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+  rails_serve_static_assets (0.0.1)
+  execjs (2.0.2)
+  bundler (1.3.5)
+  rack-test (0.6.2)
+  xpath (2.0.0)
+  thor (0.18.1)
+  minitest (4.7.5)
+  builder (3.1.4)
+  mime-types (1.25)
+  sprockets-rails (2.0.1)
+  sass (3.2.12)
+  sdoc (0.3.20)
+  tzinfo (0.3.38)
+  activerecord-deprecated_finders (1.0.3)
+  i18n (0.6.5)
+  rake (10.1.0)
+  activemodel (4.0.1)
+  sprockets (2.10.0)
+  coffee-script (2.2.0)
+  arel (4.0.1)
+  rdoc (3.12.2)
+  thread_safe (0.1.3)
+  treetop (1.4.15)
+  json (1.8.1)
+  hike (1.2.3)
+  tilt (1.4.1)
+  coffee-script-source (1.6.3)
+  atomic (1.1.14)
+Requirements:
+  polyglot (>= 0.3.1) ruby
+  polyglot (>= 0) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+  nokogiri (~> 1.3) ruby
+Attempting:
+  polyglot (>= 0.3.1) ruby
+  Activating: polyglot (0.3.3)
+    * rails (= 4.0.1)
+    * actionmailer (= 4.0.1)
+    * mail (~> 2.5.4)
+    * treetop (~> 1.4.8)
+    * polyglot (>= 0.3.1)
+    Dependencies
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+  rails_serve_static_assets (0.0.1)
+  execjs (2.0.2)
+  bundler (1.3.5)
+  rack-test (0.6.2)
+  xpath (2.0.0)
+  thor (0.18.1)
+  minitest (4.7.5)
+  builder (3.1.4)
+  mime-types (1.25)
+  sprockets-rails (2.0.1)
+  sass (3.2.12)
+  sdoc (0.3.20)
+  tzinfo (0.3.38)
+  activerecord-deprecated_finders (1.0.3)
+  i18n (0.6.5)
+  rake (10.1.0)
+  activemodel (4.0.1)
+  sprockets (2.10.0)
+  coffee-script (2.2.0)
+  arel (4.0.1)
+  rdoc (3.12.2)
+  thread_safe (0.1.3)
+  treetop (1.4.15)
+  json (1.8.1)
+  hike (1.2.3)
+  tilt (1.4.1)
+  coffee-script-source (1.6.3)
+  atomic (1.1.14)
+  polyglot (0.3.3)
+Requirements:
+  polyglot (>= 0) ruby
+  rspec-mocks (~> 2.13.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+  nokogiri (~> 1.3) ruby
+Attempting:
+  polyglot (>= 0) ruby
+    * [SUCCESS] Already activated
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+  rails_serve_static_assets (0.0.1)
+  execjs (2.0.2)
+  bundler (1.3.5)
+  rack-test (0.6.2)
+  xpath (2.0.0)
+  thor (0.18.1)
+  minitest (4.7.5)
+  builder (3.1.4)
+  mime-types (1.25)
+  sprockets-rails (2.0.1)
+  sass (3.2.12)
+  sdoc (0.3.20)
+  tzinfo (0.3.38)
+  activerecord-deprecated_finders (1.0.3)
+  i18n (0.6.5)
+  rake (10.1.0)
+  activemodel (4.0.1)
+  sprockets (2.10.0)
+  coffee-script (2.2.0)
+  arel (4.0.1)
+  rdoc (3.12.2)
+  thread_safe (0.1.3)
+  treetop (1.4.15)
+  json (1.8.1)
+  hike (1.2.3)
+  tilt (1.4.1)
+  coffee-script-source (1.6.3)
+  atomic (1.1.14)
+  polyglot (0.3.3)
+Requirements:
+  rspec-mocks (~> 2.13.0) ruby
+  rspec-core (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+  nokogiri (~> 1.3) ruby
+Attempting:
+  rspec-mocks (~> 2.13.0) ruby
+  Activating: rspec-mocks (2.13.1)
+    * rspec-rails (= 2.13.1)
+    * rspec-mocks (~> 2.13.0)
+    Dependencies
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+  rails_serve_static_assets (0.0.1)
+  execjs (2.0.2)
+  bundler (1.3.5)
+  rack-test (0.6.2)
+  xpath (2.0.0)
+  thor (0.18.1)
+  minitest (4.7.5)
+  builder (3.1.4)
+  mime-types (1.25)
+  sprockets-rails (2.0.1)
+  sass (3.2.12)
+  sdoc (0.3.20)
+  tzinfo (0.3.38)
+  activerecord-deprecated_finders (1.0.3)
+  i18n (0.6.5)
+  rake (10.1.0)
+  activemodel (4.0.1)
+  sprockets (2.10.0)
+  coffee-script (2.2.0)
+  arel (4.0.1)
+  rdoc (3.12.2)
+  thread_safe (0.1.3)
+  treetop (1.4.15)
+  json (1.8.1)
+  hike (1.2.3)
+  tilt (1.4.1)
+  coffee-script-source (1.6.3)
+  atomic (1.1.14)
+  polyglot (0.3.3)
+  rspec-mocks (2.13.1)
+Requirements:
+  rspec-core (~> 2.13.0) ruby
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+  nokogiri (~> 1.3) ruby
+Attempting:
+  rspec-core (~> 2.13.0) ruby
+  Activating: rspec-core (2.13.1)
+    * rspec-rails (= 2.13.1)
+    * rspec-core (~> 2.13.0)
+    Dependencies
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+  rails_serve_static_assets (0.0.1)
+  execjs (2.0.2)
+  bundler (1.3.5)
+  rack-test (0.6.2)
+  xpath (2.0.0)
+  thor (0.18.1)
+  minitest (4.7.5)
+  builder (3.1.4)
+  mime-types (1.25)
+  sprockets-rails (2.0.1)
+  sass (3.2.12)
+  sdoc (0.3.20)
+  tzinfo (0.3.38)
+  activerecord-deprecated_finders (1.0.3)
+  i18n (0.6.5)
+  rake (10.1.0)
+  activemodel (4.0.1)
+  sprockets (2.10.0)
+  coffee-script (2.2.0)
+  arel (4.0.1)
+  rdoc (3.12.2)
+  thread_safe (0.1.3)
+  treetop (1.4.15)
+  json (1.8.1)
+  hike (1.2.3)
+  tilt (1.4.1)
+  coffee-script-source (1.6.3)
+  atomic (1.1.14)
+  polyglot (0.3.3)
+  rspec-mocks (2.13.1)
+  rspec-core (2.13.1)
+Requirements:
+  rails_stdout_logging (>= 0) ruby
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+  nokogiri (~> 1.3) ruby
+Attempting:
+  rails_stdout_logging (>= 0) ruby
+  Activating: rails_stdout_logging (0.0.3)
+    * rails_12factor (= 0.0.2)
+    * rails_stdout_logging (>= 0)
+    Dependencies
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+  rails_serve_static_assets (0.0.1)
+  execjs (2.0.2)
+  bundler (1.3.5)
+  rack-test (0.6.2)
+  xpath (2.0.0)
+  thor (0.18.1)
+  minitest (4.7.5)
+  builder (3.1.4)
+  mime-types (1.25)
+  sprockets-rails (2.0.1)
+  sass (3.2.12)
+  sdoc (0.3.20)
+  tzinfo (0.3.38)
+  activerecord-deprecated_finders (1.0.3)
+  i18n (0.6.5)
+  rake (10.1.0)
+  activemodel (4.0.1)
+  sprockets (2.10.0)
+  coffee-script (2.2.0)
+  arel (4.0.1)
+  rdoc (3.12.2)
+  thread_safe (0.1.3)
+  treetop (1.4.15)
+  json (1.8.1)
+  hike (1.2.3)
+  tilt (1.4.1)
+  coffee-script-source (1.6.3)
+  atomic (1.1.14)
+  polyglot (0.3.3)
+  rspec-mocks (2.13.1)
+  rspec-core (2.13.1)
+  rails_stdout_logging (0.0.3)
+Requirements:
+  websocket (~> 1.0.4) ruby
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+  nokogiri (~> 1.3) ruby
+Attempting:
+  websocket (~> 1.0.4) ruby
+  Activating: websocket (1.0.7)
+    * selenium-webdriver (= 2.35.1)
+    * websocket (~> 1.0.4)
+    Dependencies
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+  rails_serve_static_assets (0.0.1)
+  execjs (2.0.2)
+  bundler (1.3.5)
+  rack-test (0.6.2)
+  xpath (2.0.0)
+  thor (0.18.1)
+  minitest (4.7.5)
+  builder (3.1.4)
+  mime-types (1.25)
+  sprockets-rails (2.0.1)
+  sass (3.2.12)
+  sdoc (0.3.20)
+  tzinfo (0.3.38)
+  activerecord-deprecated_finders (1.0.3)
+  i18n (0.6.5)
+  rake (10.1.0)
+  activemodel (4.0.1)
+  sprockets (2.10.0)
+  coffee-script (2.2.0)
+  arel (4.0.1)
+  rdoc (3.12.2)
+  thread_safe (0.1.3)
+  treetop (1.4.15)
+  json (1.8.1)
+  hike (1.2.3)
+  tilt (1.4.1)
+  coffee-script-source (1.6.3)
+  atomic (1.1.14)
+  polyglot (0.3.3)
+  rspec-mocks (2.13.1)
+  rspec-core (2.13.1)
+  rails_stdout_logging (0.0.3)
+  websocket (1.0.7)
+Requirements:
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+  nokogiri (~> 1.3) ruby
+Attempting:
+  diff-lcs (< 2.0, >= 1.1.3) ruby
+  Activating: diff-lcs (1.2.5)
+    * rspec-rails (= 2.13.1)
+    * rspec-expectations (~> 2.13.0)
+    * diff-lcs (< 2.0, >= 1.1.3)
+    Dependencies
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+  rails_serve_static_assets (0.0.1)
+  execjs (2.0.2)
+  bundler (1.3.5)
+  rack-test (0.6.2)
+  xpath (2.0.0)
+  thor (0.18.1)
+  minitest (4.7.5)
+  builder (3.1.4)
+  mime-types (1.25)
+  sprockets-rails (2.0.1)
+  sass (3.2.12)
+  sdoc (0.3.20)
+  tzinfo (0.3.38)
+  activerecord-deprecated_finders (1.0.3)
+  i18n (0.6.5)
+  rake (10.1.0)
+  activemodel (4.0.1)
+  sprockets (2.10.0)
+  coffee-script (2.2.0)
+  arel (4.0.1)
+  rdoc (3.12.2)
+  thread_safe (0.1.3)
+  treetop (1.4.15)
+  json (1.8.1)
+  hike (1.2.3)
+  tilt (1.4.1)
+  coffee-script-source (1.6.3)
+  atomic (1.1.14)
+  polyglot (0.3.3)
+  rspec-mocks (2.13.1)
+  rspec-core (2.13.1)
+  rails_stdout_logging (0.0.3)
+  websocket (1.0.7)
+  diff-lcs (1.2.5)
+Requirements:
+  rubyzip (< 1.0.0) ruby
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+  nokogiri (~> 1.3) ruby
+Attempting:
+  rubyzip (< 1.0.0) ruby
+  Activating: rubyzip (0.9.9)
+    * selenium-webdriver (= 2.35.1)
+    * rubyzip (< 1.0.0)
+    Dependencies
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+  rails_serve_static_assets (0.0.1)
+  execjs (2.0.2)
+  bundler (1.3.5)
+  rack-test (0.6.2)
+  xpath (2.0.0)
+  thor (0.18.1)
+  minitest (4.7.5)
+  builder (3.1.4)
+  mime-types (1.25)
+  sprockets-rails (2.0.1)
+  sass (3.2.12)
+  sdoc (0.3.20)
+  tzinfo (0.3.38)
+  activerecord-deprecated_finders (1.0.3)
+  i18n (0.6.5)
+  rake (10.1.0)
+  activemodel (4.0.1)
+  sprockets (2.10.0)
+  coffee-script (2.2.0)
+  arel (4.0.1)
+  rdoc (3.12.2)
+  thread_safe (0.1.3)
+  treetop (1.4.15)
+  json (1.8.1)
+  hike (1.2.3)
+  tilt (1.4.1)
+  coffee-script-source (1.6.3)
+  atomic (1.1.14)
+  polyglot (0.3.3)
+  rspec-mocks (2.13.1)
+  rspec-core (2.13.1)
+  rails_stdout_logging (0.0.3)
+  websocket (1.0.7)
+  diff-lcs (1.2.5)
+  rubyzip (0.9.9)
+Requirements:
+  childprocess (>= 0.2.5) ruby
+  nokogiri (>= 1.3.3) ruby
+  nokogiri (~> 1.3) ruby
+Attempting:
+  childprocess (>= 0.2.5) ruby
+  Activating: childprocess (0.3.9)
+    * selenium-webdriver (= 2.35.1)
+    * childprocess (>= 0.2.5)
+    Dependencies
+    * ffi (>= 1.0.11, ~> 1.0)
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+  rails_serve_static_assets (0.0.1)
+  execjs (2.0.2)
+  bundler (1.3.5)
+  rack-test (0.6.2)
+  xpath (2.0.0)
+  thor (0.18.1)
+  minitest (4.7.5)
+  builder (3.1.4)
+  mime-types (1.25)
+  sprockets-rails (2.0.1)
+  sass (3.2.12)
+  sdoc (0.3.20)
+  tzinfo (0.3.38)
+  activerecord-deprecated_finders (1.0.3)
+  i18n (0.6.5)
+  rake (10.1.0)
+  activemodel (4.0.1)
+  sprockets (2.10.0)
+  coffee-script (2.2.0)
+  arel (4.0.1)
+  rdoc (3.12.2)
+  thread_safe (0.1.3)
+  treetop (1.4.15)
+  json (1.8.1)
+  hike (1.2.3)
+  tilt (1.4.1)
+  coffee-script-source (1.6.3)
+  atomic (1.1.14)
+  polyglot (0.3.3)
+  rspec-mocks (2.13.1)
+  rspec-core (2.13.1)
+  rails_stdout_logging (0.0.3)
+  websocket (1.0.7)
+  diff-lcs (1.2.5)
+  rubyzip (0.9.9)
+  childprocess (0.3.9)
+Requirements:
+  ffi (>= 1.0.11, ~> 1.0) ruby
+  nokogiri (>= 1.3.3) ruby
+  nokogiri (~> 1.3) ruby
+Attempting:
+  ffi (>= 1.0.11, ~> 1.0) ruby
+  Activating: ffi (1.9.3)
+    * selenium-webdriver (= 2.35.1)
+    * childprocess (>= 0.2.5)
+    * ffi (>= 1.0.11, ~> 1.0)
+    Dependencies
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+  rails_serve_static_assets (0.0.1)
+  execjs (2.0.2)
+  bundler (1.3.5)
+  rack-test (0.6.2)
+  xpath (2.0.0)
+  thor (0.18.1)
+  minitest (4.7.5)
+  builder (3.1.4)
+  mime-types (1.25)
+  sprockets-rails (2.0.1)
+  sass (3.2.12)
+  sdoc (0.3.20)
+  tzinfo (0.3.38)
+  activerecord-deprecated_finders (1.0.3)
+  i18n (0.6.5)
+  rake (10.1.0)
+  activemodel (4.0.1)
+  sprockets (2.10.0)
+  coffee-script (2.2.0)
+  arel (4.0.1)
+  rdoc (3.12.2)
+  thread_safe (0.1.3)
+  treetop (1.4.15)
+  json (1.8.1)
+  hike (1.2.3)
+  tilt (1.4.1)
+  coffee-script-source (1.6.3)
+  atomic (1.1.14)
+  polyglot (0.3.3)
+  rspec-mocks (2.13.1)
+  rspec-core (2.13.1)
+  rails_stdout_logging (0.0.3)
+  websocket (1.0.7)
+  diff-lcs (1.2.5)
+  rubyzip (0.9.9)
+  childprocess (0.3.9)
+  ffi (1.9.3)
+Requirements:
+  nokogiri (>= 1.3.3) ruby
+  nokogiri (~> 1.3) ruby
+Attempting:
+  nokogiri (>= 1.3.3) ruby
+  Activating: nokogiri (1.6.0)
+    * capybara (= 2.1.0)
+    * nokogiri (>= 1.3.3)
+    Dependencies
+    * mini_portile (~> 0.5.0)
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+  rails_serve_static_assets (0.0.1)
+  execjs (2.0.2)
+  bundler (1.3.5)
+  rack-test (0.6.2)
+  xpath (2.0.0)
+  thor (0.18.1)
+  minitest (4.7.5)
+  builder (3.1.4)
+  mime-types (1.25)
+  sprockets-rails (2.0.1)
+  sass (3.2.12)
+  sdoc (0.3.20)
+  tzinfo (0.3.38)
+  activerecord-deprecated_finders (1.0.3)
+  i18n (0.6.5)
+  rake (10.1.0)
+  activemodel (4.0.1)
+  sprockets (2.10.0)
+  coffee-script (2.2.0)
+  arel (4.0.1)
+  rdoc (3.12.2)
+  thread_safe (0.1.3)
+  treetop (1.4.15)
+  json (1.8.1)
+  hike (1.2.3)
+  tilt (1.4.1)
+  coffee-script-source (1.6.3)
+  atomic (1.1.14)
+  polyglot (0.3.3)
+  rspec-mocks (2.13.1)
+  rspec-core (2.13.1)
+  rails_stdout_logging (0.0.3)
+  websocket (1.0.7)
+  diff-lcs (1.2.5)
+  rubyzip (0.9.9)
+  childprocess (0.3.9)
+  ffi (1.9.3)
+  nokogiri (1.6.0)
+Requirements:
+  nokogiri (~> 1.3) ruby
+  mini_portile (~> 0.5.0) ruby
+Attempting:
+  nokogiri (~> 1.3) ruby
+    * [SUCCESS] Already activated
+==== Iterating ====
+
+Activated:
+  rails (4.0.1)
+  sqlite3 (1.3.8)
+  rspec-rails (2.13.1)
+  selenium-webdriver (2.35.1)
+  capybara (2.1.0)
+  sass-rails (4.0.1)
+  uglifier (2.1.1)
+  coffee-rails (4.0.1)
+  jquery-rails (3.0.4)
+  turbolinks (1.1.1)
+  rack (1.5.2)
+  pg (0.15.1)
+  rails_12factor (0.0.2)
+  actionmailer (4.0.1)
+  rspec-expectations (2.13.0)
+  activerecord (4.0.1)
+  multi_json (1.8.2)
+  actionpack (4.0.1)
+  activesupport (4.0.1)
+  mail (2.5.4)
+  jbuilder (1.0.2)
+  erubis (2.7.0)
+  railties (4.0.1)
+  rails_serve_static_assets (0.0.1)
+  execjs (2.0.2)
+  bundler (1.3.5)
+  rack-test (0.6.2)
+  xpath (2.0.0)
+  thor (0.18.1)
+  minitest (4.7.5)
+  builder (3.1.4)
+  mime-types (1.25)
+  sprockets-rails (2.0.1)
+  sass (3.2.12)
+  sdoc (0.3.20)
+  tzinfo (0.3.38)
+  activerecord-deprecated_finders (1.0.3)
+  i18n (0.6.5)
+  rake (10.1.0)
+  activemodel (4.0.1)
+  sprockets (2.10.0)
+  coffee-script (2.2.0)
+  arel (4.0.1)
+  rdoc (3.12.2)
+  thread_safe (0.1.3)
+  treetop (1.4.15)
+  json (1.8.1)
+  hike (1.2.3)
+  tilt (1.4.1)
+  coffee-script-source (1.6.3)
+  atomic (1.1.14)
+  polyglot (0.3.3)
+  rspec-mocks (2.13.1)
+  rspec-core (2.13.1)
+  rails_stdout_logging (0.0.3)
+  websocket (1.0.7)
+  diff-lcs (1.2.5)
+  rubyzip (0.9.9)
+  childprocess (0.3.9)
+  ffi (1.9.3)
+  nokogiri (1.6.0)
+Requirements:
+  mini_portile (~> 0.5.0) ruby
+Attempting:
+  mini_portile (~> 0.5.0) ruby
+  Activating: mini_portile (0.5.2)
+    * capybara (= 2.1.0)
+    * nokogiri (>= 1.3.3)
+    * mini_portile (~> 0.5.0)
+    Dependencies
