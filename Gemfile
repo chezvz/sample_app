@@ -12,6 +12,7 @@ end
 group :test do
   gem 'selenium-webdriver', '2.35.1' # one of Capybara's dependencies? then why is this line needed? for the version?
   gem 'capybara', '2.1.0' # simulate user interaction with English like syntax
+  gem 'factory_girl_rails', '4.2.1'
 end
 
 gem 'sass-rails', '4.0.1'
