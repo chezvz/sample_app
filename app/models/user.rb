@@ -8,6 +8,10 @@ class User < ActiveRecord::Base
   before_create :create_remember_token
   has_many :microposts, dependent: :destroy
 
+  def feed
+    Micropost.where("user_id = ?", id)
+  end
+
   class << self  
     def new_remember_token
       SecureRandom.urlsafe_base64
